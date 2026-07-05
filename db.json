@@ -1,0 +1,2802 @@
+[
+    {
+      "no": 1,
+      "grup": "BTS",
+      "jawaban": "Rm",
+      "image": "https://i.pinimg.com/originals/b3/65/9c/b3659ceeb206155bf54f767758f57dc5.png",
+      "clue": "Leader BTS, rapper berbakat, lulusan jurusan bisnis, nama asli Kim Namjoon"
+    },
+    {
+      "no": 2,
+      "grup": "BTS",
+      "jawaban": "Rm",
+      "image": "https://i.pinimg.com/originals/27/78/b5/2778b548b1911024a632d1e21c4ad338.jpg",
+      "clue": "Leader BTS, rapper berbakat, lulusan jurusan bisnis, nama asli Kim Namjoon"
+    },
+    {
+      "no": 3,
+      "grup": "BTS",
+      "jawaban": "Jin",
+      "image": "https://i.pinimg.com/originals/01/42/96/014296b60f09849db1ca4f6183ea8a2c.jpg",
+      "clue": "Tertua di BTS, dikenal sebagai 'Worldwide Handsome', vokal & MC lucu"
+    },
+    {
+      "no": 4,
+      "grup": "BTS",
+      "jawaban": "Jin",
+      "image": "https://i.pinimg.com/originals/19/de/77/19de776b1c1b831cfe7e7c56f315a680.heic",
+      "clue": "Tertua di BTS, dikenal sebagai 'Worldwide Handsome', vokal & MC lucu"
+    },
+    {
+      "no": 5,
+      "grup": "BTS",
+      "jawaban": "Jhope",
+      "image": "https://i.pinimg.com/originals/81/9b/16/819b1678d029aa0b471af0735dd23ff4.jpg",
+      "clue": "Main dancer & rapper BTS, julukan 'Sunshine' karena selalu ceria"
+    },
+    {
+      "no": 6,
+      "grup": "BTS",
+      "jawaban": "Jhope",
+      "image": "https://i.pinimg.com/originals/10/d6/96/10d6964843d46052a1ec11fe8f74ce83.png",
+      "clue": "Main dancer & rapper BTS, julukan 'Sunshine' karena selalu ceria"
+    },
+    {
+      "no": 7,
+      "grup": "BTS",
+      "jawaban": "Jimin",
+      "image": "https://i.pinimg.com/originals/41/da/4e/41da4ed7e6407fdb577d6819af967eb0.jpg",
+      "clue": "Penari terbaik BTS, vokal merdu, berasal dari Busan"
+    },
+    {
+      "no": 8,
+      "grup": "BTS",
+      "jawaban": "Jimin",
+      "image": "https://i.pinimg.com/originals/f8/63/6d/f8636d48c129d9e9dfd988a3cf08c7f8.jpg",
+      "clue": "Penari terbaik BTS, vokal merdu, berasal dari Busan"
+    },
+    {
+      "no": 9,
+      "grup": "BTS",
+      "jawaban": "V",
+      "image": "https://i.pinimg.com/originals/c1/43/f6/c143f6a0ce0e0ffe46ebb8402d39c544.jpg",
+      "clue": "Vokal & visual BTS, suka seni & foto, nama asli Kim Taehyung"
+    },
+    {
+      "no": 10,
+      "grup": "BTS",
+      "jawaban": "V",
+      "image": "https://i.pinimg.com/originals/79/d2/b3/79d2b3ca2a4a768d39398457dc638334.jpg",
+      "clue": "Vokal & visual BTS, suka seni & foto, nama asli Kim Taehyung"
+    },
+    {
+      "no": 11,
+      "grup": "BLACKPINK",
+      "jawaban": "Jennie",
+      "image": "https://i.pinimg.com/originals/03/60/43/036043f7d5d0d95200c8263d891ea71a.jpg",
+      "clue": "Rapper & vokal BLACKPINK, julukan 'Human Chanel', dari Korea"
+    },
+    {
+      "no": 12,
+      "grup": "BLACKPINK",
+      "jawaban": "Jennie",
+      "image": "https://i.pinimg.com/originals/ed/80/d3/ed80d387ce1fe49e3444445e09bfbc9b.jpg",
+      "clue": "Rapper & vokal BLACKPINK, julukan 'Human Chanel', dari Korea"
+    },
+    {
+      "no": 13,
+      "grup": "BLACKPINK",
+      "jawaban": "Lisa",
+      "image": "https://i.pinimg.com/originals/95/23/4a/95234ac60645a3fdef124e8e26881c42.jpg",
+      "clue": "Main dancer BLACKPINK, berasal dari Thailand, rapper multibahasa"
+    },
+    {
+      "no": 14,
+      "grup": "BLACKPINK",
+      "jawaban": "Lisa",
+      "image": "https://i.pinimg.com/originals/f4/64/99/f464993b5431728e131865ce027bd4d8.jpg",
+      "clue": "Main dancer BLACKPINK, berasal dari Thailand, rapper multibahasa"
+    },
+    {
+      "no": 15,
+      "grup": "BLACKPINK",
+      "jawaban": "Rose",
+      "image": "https://i.pinimg.com/originals/92/70/25/92702517511c7d47cd13a482b6c36ab6.jpg",
+      "clue": "Vokal utama BLACKPINK, berasal dari Australia, nama asli Roseanne Park"
+    },
+    {
+      "no": 16,
+      "grup": "BLACKPINK",
+      "jawaban": "Rose",
+      "image": "https://i.pinimg.com/originals/70/8b/2f/708b2fe7730bd87805d33c64267b62f5.jpg",
+      "clue": "Vokal utama BLACKPINK, berasal dari Australia, nama asli Roseanne Park"
+    },
+    {
+      "no": 17,
+      "grup": "TWICE",
+      "jawaban": "Nayeon",
+      "image": "https://i.pinimg.com/originals/da/78/3a/da783a6ea0c0e32ba004668e9b1f9c01.jpg",
+      "clue": "Leader vokal TWICE, dikenal dengan senyum & gigi kelincinya"
+    },
+    {
+      "no": 18,
+      "grup": "TWICE",
+      "jawaban": "Nayeon",
+      "image": "https://i.pinimg.com/originals/57/77/63/577763769e2dfb14fa3d48ee7d7054e2.jpg",
+      "clue": "Leader vokal TWICE, dikenal dengan senyum & gigi kelincinya"
+    },
+    {
+      "no": 19,
+      "grup": "TWICE",
+      "jawaban": "Momo",
+      "image": "https://i.pinimg.com/originals/5b/b2/84/5bb2849ee2ae44a15b33f0f3ff7aeed6.jpg",
+      "clue": "Main dancer TWICE, berasal dari Jepang, jago masak"
+    },
+    {
+      "no": 20,
+      "grup": "TWICE",
+      "jawaban": "Momo",
+      "image": "https://i.pinimg.com/originals/9b/c7/1f/9bc71f3d6bb66ac48c411c3b882ff9bf.jpg",
+      "clue": "Main dancer TWICE, berasal dari Jepang, jago masak"
+    },
+    {
+      "no": 21,
+      "grup": "TWICE",
+      "jawaban": "Sana",
+      "image": "https://i.pinimg.com/originals/44/62/b3/4462b3c2780e508b0cb591ed9e7f664b.jpg",
+      "clue": "Vokal TWICE, berasal dari Osaka Jepang, energik & menggemaskan"
+    },
+    {
+      "no": 22,
+      "grup": "TWICE",
+      "jawaban": "Sana",
+      "image": "https://i.pinimg.com/originals/e5/e9/c2/e5e9c2ff39bf34f2f3459c981eacc2e0.jpg",
+      "clue": "Vokal TWICE, berasal dari Osaka Jepang, energik & menggemaskan"
+    },
+    {
+      "no": 23,
+      "grup": "TWICE",
+      "jawaban": "Jihyo",
+      "image": "https://i.pinimg.com/originals/18/66/0c/18660c1fee67f81cc0622514c26be7ff.jpg",
+      "clue": "Leader TWICE, vokal terkuat, trainee terlama di JYP (10 tahun)"
+    },
+    {
+      "no": 24,
+      "grup": "TWICE",
+      "jawaban": "Jihyo",
+      "image": "https://i.pinimg.com/originals/e5/d5/5c/e5d55cc91979f58311fb0865e1bb5321.jpg",
+      "clue": "Leader TWICE, vokal terkuat, trainee terlama di JYP (10 tahun)"
+    },
+    {
+      "no": 25,
+      "grup": "TWICE",
+      "jawaban": "Mina",
+      "image": "https://i.pinimg.com/originals/7a/fd/a2/7afda2b056d4f0e03d2db607a41d302a.jpg",
+      "clue": "Penari ballet TWICE, berasal dari Jepang, tampil elegan di panggung"
+    },
+    {
+      "no": 26,
+      "grup": "TWICE",
+      "jawaban": "Mina",
+      "image": "https://i.pinimg.com/originals/d0/10/64/d0106426042433ee6e8f7ba6960069a3.jpg",
+      "clue": "Penari ballet TWICE, berasal dari Jepang, tampil elegan di panggung"
+    },
+    {
+      "no": 27,
+      "grup": "TWICE",
+      "jawaban": "Dahyun",
+      "image": "https://i.pinimg.com/originals/ba/73/1a/ba731a3a86269fa84784d09ad7d7fd79.jpg",
+      "clue": "Rapper TWICE, lucu & kocak, jago beatbox, asal Seongnam Korea"
+    },
+    {
+      "no": 28,
+      "grup": "TWICE",
+      "jawaban": "Dahyun",
+      "image": "https://i.pinimg.com/originals/54/f7/fd/54f7fd1ffd084fabcfcd3bea29840ab7.jpg",
+      "clue": "Rapper TWICE, lucu & kocak, jago beatbox, asal Seongnam Korea"
+    },
+    {
+      "no": 29,
+      "grup": "TWICE",
+      "jawaban": "Chaeyoung",
+      "image": "https://i.pinimg.com/originals/de/8e/41/de8e41c661991880cdd998464a51912b.jpg",
+      "clue": "Rapper & seniman TWICE, suka melukis, tampil edgy & kreatif"
+    },
+    {
+      "no": 30,
+      "grup": "TWICE",
+      "jawaban": "Chaeyoung",
+      "image": "https://i.pinimg.com/originals/c6/b9/19/c6b9190f950416c38e47d0d881aca6a4.jpg",
+      "clue": "Rapper & seniman TWICE, suka melukis, tampil edgy & kreatif"
+    },
+    {
+      "no": 31,
+      "grup": "TWICE",
+      "jawaban": "Tzuyu",
+      "image": "https://i.pinimg.com/originals/d5/30/13/d530136c7e9485a58cf05ae20002256b.jpg",
+      "clue": "Maknae & visual TWICE, berasal dari Taiwan, tinggi 172cm"
+    },
+    {
+      "no": 32,
+      "grup": "TWICE",
+      "jawaban": "Tzuyu",
+      "image": "https://i.pinimg.com/originals/79/4e/ea/794eeab5c80c0b8dabfe54c329f2d7b5.jpg",
+      "clue": "Maknae & visual TWICE, berasal dari Taiwan, tinggi 172cm"
+    },
+    {
+      "no": 33,
+      "grup": "EXO",
+      "jawaban": "Suho",
+      "image": "https://i.pinimg.com/originals/55/41/9f/55419f1d6f5af48db1b3d4fb65f75d5b.jpg",
+      "clue": "Leader EXO, vokal & aktor, nama asli Kim Joonmyeon, pintar banget"
+    },
+    {
+      "no": 34,
+      "grup": "EXO",
+      "jawaban": "Suho",
+      "image": "https://i.pinimg.com/originals/de/d4/f7/ded4f7c5c0061db51b2d227cceafe0ca.jpg",
+      "clue": "Leader EXO, vokal & aktor, nama asli Kim Joonmyeon, pintar banget"
+    },
+    {
+      "no": 35,
+      "grup": "EXO",
+      "jawaban": "Baekhyun",
+      "image": "https://i.pinimg.com/originals/30/74/74/3074741ba410b28739d5d550b7cf6e4a.jpg",
+      "clue": "Vokal utama EXO, jago akting & solo karier, energik di panggung"
+    },
+    {
+      "no": 36,
+      "grup": "EXO",
+      "jawaban": "Baekhyun",
+      "image": "https://i.pinimg.com/originals/df/e9/69/dfe969127ac4587d1529be438ad24a4a.jpg",
+      "clue": "Vokal utama EXO, jago akting & solo karier, energik di panggung"
+    },
+    {
+      "no": 37,
+      "grup": "EXO",
+      "jawaban": "Chen",
+      "image": "https://i.pinimg.com/originals/fc/1f/db/fc1fdbbd93b8a34ccb921b84e0fd442c.jpg",
+      "clue": "Vokal terkuat EXO, dikenal dengan high note menakjubkan"
+    },
+    {
+      "no": 38,
+      "grup": "EXO",
+      "jawaban": "Chen",
+      "image": "https://i.pinimg.com/originals/b2/9b/71/b29b717d82f878541974d4ab61cbe795.jpg",
+      "clue": "Vokal terkuat EXO, dikenal dengan high note menakjubkan"
+    },
+    {
+      "no": 39,
+      "grup": "EXO",
+      "jawaban": "Chanyeol",
+      "image": "https://i.pinimg.com/originals/26/a5/a0/26a5a0e9c3693c3fdf99795a0c30d211.jpg",
+      "clue": "Rapper & musisi EXO, jago gitar, tinggi 185cm, aktor berbakat"
+    },
+    {
+      "no": 40,
+      "grup": "EXO",
+      "jawaban": "Chanyeol",
+      "image": "https://i.pinimg.com/originals/9a/4b/6a/9a4b6a58948406ef01d91f1af35e9ec8.jpg",
+      "clue": "Rapper & musisi EXO, jago gitar, tinggi 185cm, aktor berbakat"
+    },
+    {
+      "no": 41,
+      "grup": "EXO",
+      "jawaban": "Kyungsoo",
+      "image": "https://i.pinimg.com/originals/5d/7e/45/5d7e45e58030847c68bc8d246d21cc10.jpg",
+      "clue": "Vokal EXO, aktor top Korea, nama panggung D.O, pendiam tapi bersinar"
+    },
+    {
+      "no": 42,
+      "grup": "EXO",
+      "jawaban": "Kyungsoo",
+      "image": "https://i.pinimg.com/originals/2e/7a/cc/2e7accbcc2b4c7d22c2539f402499c05.jpg",
+      "clue": "Vokal EXO, aktor top Korea, nama panggung D.O, pendiam tapi bersinar"
+    },
+    {
+      "no": 43,
+      "grup": "EXO",
+      "jawaban": "Kai",
+      "image": "https://i.pinimg.com/originals/cb/ae/42/cbae42aa118de465d70c427345ba049b.jpg",
+      "clue": "Main dancer EXO, visual memukau, suka ballet sejak kecil"
+    },
+    {
+      "no": 44,
+      "grup": "EXO",
+      "jawaban": "Kai",
+      "image": "https://i.pinimg.com/originals/2e/43/24/2e4324ee5089e3ffa2866ff568717d6a.jpg",
+      "clue": "Main dancer EXO, visual memukau, suka ballet sejak kecil"
+    },
+    {
+      "no": 45,
+      "grup": "EXO",
+      "jawaban": "Xiumin",
+      "image": "https://i.pinimg.com/originals/f5/96/91/f596911ec3d2b9f2d779c89f8c805a58.jpg",
+      "clue": "Tertua EXO, vokal & dancer, wajah paling imut meski tertua"
+    },
+    {
+      "no": 46,
+      "grup": "EXO",
+      "jawaban": "Xiumin",
+      "image": "https://i.pinimg.com/originals/0e/0a/0e/0e0a0eefb63b86ff196569deb43d476f.jpg",
+      "clue": "Tertua EXO, vokal & dancer, wajah paling imut meski tertua"
+    },
+    {
+      "no": 47,
+      "grup": "EXO",
+      "jawaban": "Lay",
+      "image": "https://i.pinimg.com/originals/34/46/d6/3446d6d14aa9f2816e2e3c8218ee8215.jpg",
+      "clue": "Member EXO dari China, performer & produser solo sukses"
+    },
+    {
+      "no": 48,
+      "grup": "EXO",
+      "jawaban": "Lay",
+      "image": "https://i.pinimg.com/originals/81/dc/a8/81dca825aca6094187a72e4feda6fd04.png",
+      "clue": "Member EXO dari China, performer & produser solo sukses"
+    },
+    {
+      "no": 49,
+      "grup": "NCT",
+      "jawaban": "Mark",
+      "image": "https://i.pinimg.com/originals/ef/38/cc/ef38ccd78052a4acc6a8c60576bc140d.png",
+      "clue": "Multi-unit NCT, rapper berbakat, berasal dari Kanada"
+    },
+    {
+      "no": 50,
+      "grup": "NCT",
+      "jawaban": "Mark",
+      "image": "https://i.pinimg.com/originals/95/0c/ec/950cecf2cd647a84dedd7e9a9d70f17e.jpg",
+      "clue": "Multi-unit NCT, rapper berbakat, berasal dari Kanada"
+    },
+    {
+      "no": 51,
+      "grup": "NCT",
+      "jawaban": "Jaehyun",
+      "image": "https://i.pinimg.com/originals/90/05/c9/9005c9bb295ece061aff6690e98dc599.jpg",
+      "clue": "Vokal & visual NCT, dibesarkan di Amerika, penggemar basket"
+    },
+    {
+      "no": 52,
+      "grup": "NCT",
+      "jawaban": "Jaehyun",
+      "image": "https://i.pinimg.com/originals/5c/5f/7b/5c5f7bdd7cc8cc033b7861915cfd3026.jpg",
+      "clue": "Vokal & visual NCT, dibesarkan di Amerika, penggemar basket"
+    },
+    {
+      "no": 53,
+      "grup": "NCT",
+      "jawaban": "Doyoung",
+      "image": "https://i.pinimg.com/originals/2d/d7/b9/2dd7b9cacc28562fd71ba06d684523a0.jpg",
+      "clue": "Vokal utama NCT, mantan MC, suka memasak & melukis"
+    },
+    {
+      "no": 54,
+      "grup": "NCT",
+      "jawaban": "Doyoung",
+      "image": "https://i.pinimg.com/originals/d4/59/d1/d459d1853f257686250302291f9da5c8.jpg",
+      "clue": "Vokal utama NCT, mantan MC, suka memasak & melukis"
+    },
+    {
+      "no": 55,
+      "grup": "NCT",
+      "jawaban": "Ten",
+      "image": "https://i.pinimg.com/originals/a3/1a/7f/a31a7fd58787e8c283e994764b980be2.jpg",
+      "clue": "Main dancer NCT, berasal dari Thailand, koreografer berbakat"
+    },
+    {
+      "no": 56,
+      "grup": "NCT",
+      "jawaban": "Ten",
+      "image": "https://i.pinimg.com/originals/fc/49/14/fc491459ed857b51a3fcfe5782182522.jpg",
+      "clue": "Main dancer NCT, berasal dari Thailand, koreografer berbakat"
+    },
+    {
+      "no": 57,
+      "grup": "NCT",
+      "jawaban": "Johnny",
+      "image": "https://i.pinimg.com/originals/38/5f/21/385f2138177f4e3c1fdd0b50830032a7.jpg",
+      "clue": "Rapper & MC NCT, berasal dari Chicago Amerika"
+    },
+    {
+      "no": 58,
+      "grup": "NCT",
+      "jawaban": "Johnny",
+      "image": "https://i.pinimg.com/originals/33/f1/86/33f18687847c5d69d2b83df7487881fc.jpg",
+      "clue": "Rapper & MC NCT, berasal dari Chicago Amerika"
+    },
+    {
+      "no": 59,
+      "grup": "NCT",
+      "jawaban": "Yuta",
+      "image": "https://i.pinimg.com/originals/83/cb/b7/83cbb771191148b8dbec520d780ddbdc.jpg",
+      "clue": "Vokal & dancer NCT, berasal dari Osaka Jepang, penyuka tinju"
+    },
+    {
+      "no": 60,
+      "grup": "NCT",
+      "jawaban": "Yuta",
+      "image": "https://i.pinimg.com/originals/c5/40/5a/c5405adfff59c9238f99a2c6cffa2b31.jpg",
+      "clue": "Vokal & dancer NCT, berasal dari Osaka Jepang, penyuka tinju"
+    },
+    {
+      "no": 61,
+      "grup": "NCT",
+      "jawaban": "Haechan",
+      "image": "https://i.pinimg.com/originals/3f/db/1d/3fdb1d9c5f799aafb65b54715eab14e7.jpg",
+      "clue": "Vokal penuh energi NCT Dream, julukan 'Haechan' = bersinar"
+    },
+    {
+      "no": 62,
+      "grup": "NCT",
+      "jawaban": "Haechan",
+      "image": "https://i.pinimg.com/originals/66/ff/62/66ff621b9cc53557bd1e050988b026f0.jpg",
+      "clue": "Vokal penuh energi NCT Dream, julukan 'Haechan' = bersinar"
+    },
+    {
+      "no": 63,
+      "grup": "NCT",
+      "jawaban": "Jeno",
+      "image": "https://i.pinimg.com/originals/9b/2e/d5/9b2ed580a02bc7bfac541bb02170d3ab.jpg",
+      "clue": "Main dancer NCT Dream, visual memikat, jago kendarai motor"
+    },
+    {
+      "no": 64,
+      "grup": "NCT",
+      "jawaban": "Jeno",
+      "image": "https://i.pinimg.com/originals/08/05/37/080537ebc6102c7165621b4811b10b8c.jpg",
+      "clue": "Main dancer NCT Dream, visual memikat, jago kendarai motor"
+    },
+    {
+      "no": 65,
+      "grup": "NCT",
+      "jawaban": "Jaemin",
+      "image": "https://i.pinimg.com/originals/63/fd/35/63fd35b232f0f55425d05177f50d704e.jpg",
+      "clue": "Visual NCT Dream, charming & ekspresif di setiap penampilan"
+    },
+    {
+      "no": 66,
+      "grup": "NCT",
+      "jawaban": "Jaemin",
+      "image": "https://i.pinimg.com/originals/02/f6/5d/02f65d5c55805babccc6286615e2229f.jpg",
+      "clue": "Visual NCT Dream, charming & ekspresif di setiap penampilan"
+    },
+    {
+      "no": 67,
+      "grup": "NCT",
+      "jawaban": "Renjun",
+      "image": "https://i.pinimg.com/originals/78/44/7a/78447ae4b51310c6825b51d1fa6ff1d4.jpg",
+      "clue": "Vokal NCT Dream, berasal dari China, suka melukis & seni"
+    },
+    {
+      "no": 68,
+      "grup": "NCT",
+      "jawaban": "Renjun",
+      "image": "https://i.pinimg.com/originals/72/01/66/72016667b231f596472c5f9791e98250.jpg",
+      "clue": "Vokal NCT Dream, berasal dari China, suka melukis & seni"
+    },
+    {
+      "no": 69,
+      "grup": "SEVENTEEN",
+      "jawaban": "Scoups",
+      "image": "https://i.pinimg.com/originals/a7/5b/e5/a75be56ca1c539fdc81d64afc3eb9f3c.jpg",
+      "clue": "Leader SEVENTEEN, rapper hip-hop unit, nama asli Choi Seungcheol"
+    },
+    {
+      "no": 70,
+      "grup": "SEVENTEEN",
+      "jawaban": "Scoups",
+      "image": "https://i.pinimg.com/originals/6a/69/e6/6a69e6a22191ab4bb8b9e46b9b46cf7c.jpg",
+      "clue": "Leader SEVENTEEN, rapper hip-hop unit, nama asli Choi Seungcheol"
+    },
+    {
+      "no": 71,
+      "grup": "SEVENTEEN",
+      "jawaban": "Jeonghan",
+      "image": "https://i.pinimg.com/originals/95/1e/f8/951ef80842e4ffcd434df7abb1dfc964.jpg",
+      "clue": "Vokal SEVENTEEN, terkenal dengan visual bidadari & rambut panjangnya"
+    },
+    {
+      "no": 72,
+      "grup": "SEVENTEEN",
+      "jawaban": "Jeonghan",
+      "image": "https://i.pinimg.com/originals/16/9a/26/169a26da117564435c586712ea5dfad2.jpg",
+      "clue": "Vokal SEVENTEEN, terkenal dengan visual bidadari & rambut panjangnya"
+    },
+    {
+      "no": 73,
+      "grup": "SEVENTEEN",
+      "jawaban": "Joshua",
+      "image": "https://i.pinimg.com/originals/36/60/ab/3660ab13ed92b6385551a95c71e144eb.jpg",
+      "clue": "Vokal SEVENTEEN, berasal dari Los Angeles Amerika, jago gitar"
+    },
+    {
+      "no": 74,
+      "grup": "SEVENTEEN",
+      "jawaban": "Joshua",
+      "image": "https://i.pinimg.com/originals/f0/67/5c/f0675c46cdeae8cd682b6408d8e7bdc5.jpg",
+      "clue": "Vokal SEVENTEEN, berasal dari Los Angeles Amerika, jago gitar"
+    },
+    {
+      "no": 75,
+      "grup": "SEVENTEEN",
+      "jawaban": "Jun",
+      "image": "https://i.pinimg.com/originals/7b/44/35/7b4435b1e3e25e71de4ba92214765ba6.jpg",
+      "clue": "Performance unit SEVENTEEN, berasal dari China, mantan aktor cilik"
+    },
+    {
+      "no": 76,
+      "grup": "SEVENTEEN",
+      "jawaban": "Jun",
+      "image": "https://i.pinimg.com/originals/31/e3/c2/31e3c24b185ea3a0ac58079488c76b5e.jpg",
+      "clue": "Performance unit SEVENTEEN, berasal dari China, mantan aktor cilik"
+    },
+    {
+      "no": 77,
+      "grup": "SEVENTEEN",
+      "jawaban": "Hoshi",
+      "image": "https://i.pinimg.com/originals/8c/8c/88/8c8c88b0f1b11ed8be9b9e6862dfa3c5.jpg",
+      "clue": "Leader performance unit SEVENTEEN, koreografer & main dancer"
+    },
+    {
+      "no": 78,
+      "grup": "SEVENTEEN",
+      "jawaban": "Hoshi",
+      "image": "https://i.pinimg.com/originals/f5/e3/c6/f5e3c685fc09638748aff8778d650d62.jpg",
+      "clue": "Leader performance unit SEVENTEEN, koreografer & main dancer"
+    },
+    {
+      "no": 79,
+      "grup": "SEVENTEEN",
+      "jawaban": "Woozi",
+      "image": "https://i.pinimg.com/originals/2c/c6/a7/2cc6a7069559500cc4425aa0fe3f9185.jpg",
+      "clue": "Leader vocal unit SEVENTEEN, produser lagu SEVENTEEN, tinggi 164cm"
+    },
+    {
+      "no": 80,
+      "grup": "SEVENTEEN",
+      "jawaban": "Woozi",
+      "image": "https://i.pinimg.com/originals/71/64/ca/7164ca6ff8c6e6264fae9ef2091fac04.jpg",
+      "clue": "Leader vocal unit SEVENTEEN, produser lagu SEVENTEEN, tinggi 164cm"
+    },
+    {
+      "no": 81,
+      "grup": "SEVENTEEN",
+      "jawaban": "The8",
+      "image": "https://i.pinimg.com/originals/4e/d6/66/4ed666ce7ab18fbdd3671a568af6bc85.jpg",
+      "clue": "Performance unit SEVENTEEN, berasal dari China, jago b-boy"
+    },
+    {
+      "no": 82,
+      "grup": "SEVENTEEN",
+      "jawaban": "The8",
+      "image": "https://i.pinimg.com/originals/82/78/7e/82787e3049f235dd3a41abe86b8b5a64.jpg",
+      "clue": "Performance unit SEVENTEEN, berasal dari China, jago b-boy"
+    },
+    {
+      "no": 83,
+      "grup": "SEVENTEEN",
+      "jawaban": "Seungkwan",
+      "image": "https://i.pinimg.com/originals/3f/48/bc/3f48bc9eb41e3ace99b79500f5c08100.jpg",
+      "clue": "Vokal SEVENTEEN, jago MC & improvisasi, asal Jeju Island"
+    },
+    {
+      "no": 84,
+      "grup": "SEVENTEEN",
+      "jawaban": "Seungkwan",
+      "image": "https://i.pinimg.com/originals/c6/7a/a0/c67aa0dbcf64c68f5fbf1e887f995252.jpg",
+      "clue": "Vokal SEVENTEEN, jago MC & improvisasi, asal Jeju Island"
+    },
+    {
+      "no": 85,
+      "grup": "SEVENTEEN",
+      "jawaban": "Vernon",
+      "image": "https://i.pinimg.com/originals/2e/36/8d/2e368d627e1a1a09e9849ad09f37b594.jpg",
+      "clue": "Rapper SEVENTEEN, berdarah Korea-Amerika, cool & stylish"
+    },
+    {
+      "no": 86,
+      "grup": "SEVENTEEN",
+      "jawaban": "Vernon",
+      "image": "https://i.pinimg.com/originals/95/51/19/9551193fefa483974f34be74c58f9997.jpg",
+      "clue": "Rapper SEVENTEEN, berdarah Korea-Amerika, cool & stylish"
+    },
+    {
+      "no": 87,
+      "grup": "SEVENTEEN",
+      "jawaban": "Dino",
+      "image": "https://i.pinimg.com/originals/30/1a/41/301a41ddb83c858e9a7faf990040b713.png",
+      "clue": "Maknae SEVENTEEN, main dancer, fans besar Michael Jackson"
+    },
+    {
+      "no": 88,
+      "grup": "SEVENTEEN",
+      "jawaban": "Dino",
+      "image": "https://i.pinimg.com/originals/4c/cc/fe/4cccfeffa36e2d28e98c1693f5b5c42d.jpg",
+      "clue": "Maknae SEVENTEEN, main dancer, fans besar Michael Jackson"
+    },
+    {
+      "no": 89,
+      "grup": "Stray Kids",
+      "jawaban": "Bangchan",
+      "image": "https://i.pinimg.com/originals/ac/02/36/ac0236818161ac0285402e3f0bedc795.jpg",
+      "clue": "Leader Stray Kids, produser utama 3RACHA, lahir di Sydney Australia"
+    },
+    {
+      "no": 90,
+      "grup": "Stray Kids",
+      "jawaban": "Bangchan",
+      "image": "https://i.pinimg.com/originals/14/d2/60/14d260292a648669d16c7fa1348e105f.jpg",
+      "clue": "Leader Stray Kids, produser utama 3RACHA, lahir di Sydney Australia"
+    },
+    {
+      "no": 91,
+      "grup": "Stray Kids",
+      "jawaban": "Changbin",
+      "image": "https://i.pinimg.com/originals/52/59/71/5259718059e1dcecdf58fa0e08c6af35.jpg",
+      "clue": "Rapper terkuat Stray Kids, suara deep & powerful, jago lyricist"
+    },
+    {
+      "no": 92,
+      "grup": "Stray Kids",
+      "jawaban": "Changbin",
+      "image": "https://i.pinimg.com/originals/ed/58/30/ed583019fedb92aff1854e2802f450c5.jpg",
+      "clue": "Rapper terkuat Stray Kids, suara deep & powerful, jago lyricist"
+    },
+    {
+      "no": 93,
+      "grup": "Stray Kids",
+      "jawaban": "Han",
+      "image": "https://i.pinimg.com/originals/4d/69/dd/4d69dd7b77ecfaeb5f0e8fd2a344f83b.jpg",
+      "clue": "Rapper & produser Stray Kids, emosional dalam lagu, anggota 3RACHA"
+    },
+    {
+      "no": 94,
+      "grup": "Stray Kids",
+      "jawaban": "Han",
+      "image": "https://i.pinimg.com/originals/67/eb/3b/67eb3ba52fbd16f9189baf33ae9855a4.jpg",
+      "clue": "Rapper & produser Stray Kids, emosional dalam lagu, anggota 3RACHA"
+    },
+    {
+      "no": 95,
+      "grup": "Stray Kids",
+      "jawaban": "Hyunjin",
+      "image": "https://i.pinimg.com/originals/f2/37/bb/f237bbc5a3af2bb9d35a9c02d4f30094.jpg",
+      "clue": "Visual & dancer Stray Kids, pelukis berbakat, tinggi 179cm"
+    },
+    {
+      "no": 96,
+      "grup": "Stray Kids",
+      "jawaban": "Hyunjin",
+      "image": "https://i.pinimg.com/originals/8f/65/3b/8f653b03184b95e20c9d905df878b844.jpg",
+      "clue": "Visual & dancer Stray Kids, pelukis berbakat, tinggi 179cm"
+    },
+    {
+      "no": 97,
+      "grup": "Stray Kids",
+      "jawaban": "Felix",
+      "image": "https://i.pinimg.com/originals/6b/d1/a0/6bd1a0fd06b7324d42443508dde19661.jpg",
+      "clue": "Dancer Stray Kids, berasal dari Sydney Australia, suara unik nan dalam"
+    },
+    {
+      "no": 98,
+      "grup": "Stray Kids",
+      "jawaban": "Felix",
+      "image": "https://i.pinimg.com/originals/b3/59/ec/b359ec2a1116828b096f6cfbc05410aa.jpg",
+      "clue": "Dancer Stray Kids, berasal dari Sydney Australia, suara unik nan dalam"
+    },
+    {
+      "no": 99,
+      "grup": "TREASURE",
+      "jawaban": "Hyunsuk",
+      "image": "https://i.pinimg.com/originals/78/56/3c/78563c4566d7819c244694fd20f2e132.jpg",
+      "clue": "Leader TREASURE, rapper, lulusan YG WIN & Mix & Match"
+    },
+    {
+      "no": 100,
+      "grup": "TREASURE",
+      "jawaban": "Hyunsuk",
+      "image": "https://i.pinimg.com/originals/b5/2a/e6/b52ae6fbbdda2a709046033a4885c027.jpg",
+      "clue": "Leader TREASURE, rapper, lulusan YG WIN & Mix & Match"
+    },
+    {
+      "no": 101,
+      "grup": "TREASURE",
+      "jawaban": "Yedam",
+      "image": "https://i.pinimg.com/originals/7a/b5/6a/7ab56a17ce9a2df1c4fd350e00aa7b03.jpg",
+      "clue": "Vokal utama TREASURE, juara K-pop Star, main piano"
+    },
+    {
+      "no": 102,
+      "grup": "TREASURE",
+      "jawaban": "Yedam",
+      "image": "https://i.pinimg.com/originals/4f/9c/ac/4f9cac37c32deb83a4787754e36026f7.jpg",
+      "clue": "Vokal utama TREASURE, juara K-pop Star, main piano"
+    },
+    {
+      "no": 103,
+      "grup": "TREASURE",
+      "jawaban": "Haruto",
+      "image": "https://i.pinimg.com/originals/a0/ef/2c/a0ef2c3de116fdb58d4114360edc9b5e.jpg",
+      "clue": "Rapper TREASURE, berasal dari Jepang, jago skateboard"
+    },
+    {
+      "no": 104,
+      "grup": "TREASURE",
+      "jawaban": "Haruto",
+      "image": "https://i.pinimg.com/originals/ec/c0/fb/ecc0fb00d31a8b576c17558d25edba4c.jpg",
+      "clue": "Rapper TREASURE, berasal dari Jepang, jago skateboard"
+    },
+    {
+      "no": 105,
+      "grup": "TREASURE",
+      "jawaban": "Junkyu",
+      "image": "https://i.pinimg.com/originals/e5/b6/90/e5b690d30789bcda9e899711e37b5fc8.jpg",
+      "clue": "Vokal TREASURE, ekspresi unik & lucu, asal Gimhae Korea"
+    },
+    {
+      "no": 106,
+      "grup": "TREASURE",
+      "jawaban": "Junkyu",
+      "image": "https://i.pinimg.com/originals/45/74/47/457447786ca27f4ac41a7d940d917b2d.jpg",
+      "clue": "Vokal TREASURE, ekspresi unik & lucu, asal Gimhae Korea"
+    },
+    {
+      "no": 107,
+      "grup": "TREASURE",
+      "jawaban": "Jeongwoo",
+      "image": "https://i.pinimg.com/originals/41/a0/b6/41a0b6064d1d5b32c8ada4a860e71fd1.jpg",
+      "clue": "Vokal & visual TREASURE, maknae line, asal Pohang Korea"
+    },
+    {
+      "no": 108,
+      "grup": "TREASURE",
+      "jawaban": "Jeongwoo",
+      "image": "https://i.pinimg.com/originals/0c/2e/e0/0c2ee0c51383c4f4865e8dea21a63040.jpg",
+      "clue": "Vokal & visual TREASURE, maknae line, asal Pohang Korea"
+    },
+    {
+      "no": 109,
+      "grup": "TREASURE",
+      "jawaban": "Asahi",
+      "image": "https://i.pinimg.com/originals/10/05/c1/1005c1d928b4732f655427040580e236.jpg",
+      "clue": "Dancer TREASURE, berasal dari Jepang, tampilan edgy & cool"
+    },
+    {
+      "no": 110,
+      "grup": "TREASURE",
+      "jawaban": "Asahi",
+      "image": "https://i.pinimg.com/originals/b9/b7/4e/b9b74e018f6f2b9b3c4d30a956e553f0.jpg",
+      "clue": "Dancer TREASURE, berasal dari Jepang, tampilan edgy & cool"
+    },
+    {
+      "no": 111,
+      "grup": "TREASURE",
+      "jawaban": "Jaehyuk",
+      "image": "https://i.pinimg.com/originals/cc/4d/c1/cc4dc18f6192c7419987605060f07f22.jpg",
+      "clue": "Rapper TREASURE, percaya diri & swag di atas panggung"
+    },
+    {
+      "no": 112,
+      "grup": "TREASURE",
+      "jawaban": "Jaehyuk",
+      "image": "https://i.pinimg.com/originals/99/ef/a1/99efa16173f5027a9f33f2308a131b64.jpg",
+      "clue": "Rapper TREASURE, percaya diri & swag di atas panggung"
+    },
+    {
+      "no": 113,
+      "grup": "TREASURE",
+      "jawaban": "Yoshi",
+      "image": "https://i.pinimg.com/originals/1c/f2/b5/1cf2b51dccfae55092dded1e1a28148f.jpg",
+      "clue": "Rapper & performer TREASURE, berasal dari Fukuoka Jepang"
+    },
+    {
+      "no": 114,
+      "grup": "TREASURE",
+      "jawaban": "Yoshi",
+      "image": "https://i.pinimg.com/originals/07/68/94/0768942d28c551a5ab16f3bbd40c1c9a.jpg",
+      "clue": "Rapper & performer TREASURE, berasal dari Fukuoka Jepang"
+    },
+    {
+      "no": 115,
+      "grup": "TREASURE",
+      "jawaban": "Mashiho",
+      "image": "https://i.pinimg.com/originals/c0/a0/d6/c0a0d6ddba78e49f8fd34a1717b55a96.jpg",
+      "clue": "Visual TREASURE, berasal dari Jepang, wajah doll-like imut"
+    },
+    {
+      "no": 116,
+      "grup": "TREASURE",
+      "jawaban": "Mashiho",
+      "image": "https://i.pinimg.com/originals/76/dc/a8/76dca873e253a60cc20f377b0d76ce24.jpg",
+      "clue": "Visual TREASURE, berasal dari Jepang, wajah doll-like imut"
+    },
+    {
+      "no": 117,
+      "grup": "TREASURE",
+      "jawaban": "Junghwan",
+      "image": "https://i.pinimg.com/originals/13/f0/dd/13f0dd48a8d9f0889087cc654a9c17a5.jpg",
+      "clue": "Maknae TREASURE, vokal & dancer, tinggi & tampan"
+    },
+    {
+      "no": 118,
+      "grup": "TREASURE",
+      "jawaban": "Junghwan",
+      "image": "https://i.pinimg.com/originals/b0/63/b2/b063b2188a5d18422d49b371c1eb44e6.jpg",
+      "clue": "Maknae TREASURE, vokal & dancer, tinggi & tampan"
+    },
+    {
+      "no": 119,
+      "grup": "ENHYPEN",
+      "jawaban": "Heeseung",
+      "image": "https://i.pinimg.com/originals/85/4a/c1/854ac11e97f96c70330cf474c8f3eab2.jpg",
+      "clue": "Multi-talented ENHYPEN, bisa vokal-rap-dance, jago gitar"
+    },
+    {
+      "no": 120,
+      "grup": "ENHYPEN",
+      "jawaban": "Heeseung",
+      "image": "https://i.pinimg.com/originals/c8/52/bd/c852bd250e0bae06f39e3b9487dfd538.jpg",
+      "clue": "Multi-talented ENHYPEN, bisa vokal-rap-dance, jago gitar"
+    },
+    {
+      "no": 121,
+      "grup": "ENHYPEN",
+      "jawaban": "Jay",
+      "image": "https://i.pinimg.com/originals/03/22/be/0322be3ea30ea4f7502b9962bee2a971.jpg",
+      "clue": "Rapper ENHYPEN, berbicara 3 bahasa (Korea, Inggris, Jepang), asal Amerika"
+    },
+    {
+      "no": 122,
+      "grup": "ENHYPEN",
+      "jawaban": "Jay",
+      "image": "https://i.pinimg.com/originals/b9/65/b8/b965b85ea268816d9ffaaf5351758a8f.jpg",
+      "clue": "Rapper ENHYPEN, berbicara 3 bahasa (Korea, Inggris, Jepang), asal Amerika"
+    },
+    {
+      "no": 123,
+      "grup": "ENHYPEN",
+      "jawaban": "Jake",
+      "image": "https://i.pinimg.com/originals/0c/8e/19/0c8e19f19664815a25182437b4dc1164.jpg",
+      "clue": "Vokal ENHYPEN, berasal dari Brisbane Australia, menggemaskan"
+    },
+    {
+      "no": 124,
+      "grup": "ENHYPEN",
+      "jawaban": "Jake",
+      "image": "https://i.pinimg.com/originals/bb/5d/61/bb5d61c71e0e20c19d44aa5b67dc7d4e.jpg",
+      "clue": "Vokal ENHYPEN, berasal dari Brisbane Australia, menggemaskan"
+    },
+    {
+      "no": 125,
+      "grup": "ENHYPEN",
+      "jawaban": "Sunghoon",
+      "image": "https://i.pinimg.com/originals/08/d7/ad/08d7ad748f59a59622e7f877b0b36cf3.jpg",
+      "clue": "Visual ENHYPEN, mantan atlet figure skating nasional Korea"
+    },
+    {
+      "no": 126,
+      "grup": "ENHYPEN",
+      "jawaban": "Sunghoon",
+      "image": "https://i.pinimg.com/originals/ef/6d/cc/ef6dcc0fb7bb5d56f752e26205e3e1b9.jpg",
+      "clue": "Visual ENHYPEN, mantan atlet figure skating nasional Korea"
+    },
+    {
+      "no": 127,
+      "grup": "ENHYPEN",
+      "jawaban": "Sunoo",
+      "image": "https://i.pinimg.com/originals/76/da/1a/76da1ac9117ed4a8e23646b5a05019e7.jpg",
+      "clue": "Vokal ENHYPEN, terkenal dengan senyum mataharinya yang ceria"
+    },
+    {
+      "no": 128,
+      "grup": "ENHYPEN",
+      "jawaban": "Sunoo",
+      "image": "https://i.pinimg.com/originals/8c/8f/f1/8c8ff1521c46b836462e8e38eaab2c65.jpg",
+      "clue": "Vokal ENHYPEN, terkenal dengan senyum mataharinya yang ceria"
+    },
+    {
+      "no": 129,
+      "grup": "ENHYPEN",
+      "jawaban": "Jungwon",
+      "image": "https://i.pinimg.com/originals/cf/02/74/cf0274f1c66db08fc1f45f2af4e65f95.jpg",
+      "clue": "Leader ENHYPEN, vokal & dance, tampak tenang dan bijak"
+    },
+    {
+      "no": 130,
+      "grup": "ENHYPEN",
+      "jawaban": "Jungwon",
+      "image": "https://i.pinimg.com/originals/f3/7d/64/f37d647eafa57d3237d6bf7cb0a694a9.jpg",
+      "clue": "Leader ENHYPEN, vokal & dance, tampak tenang dan bijak"
+    },
+    {
+      "no": 131,
+      "grup": "ENHYPEN",
+      "jawaban": "Niki",
+      "image": "https://i.pinimg.com/originals/c7/2a/37/c72a37aa613d65afcea792ea525cb23a.png",
+      "clue": "Maknae & main dancer ENHYPEN, berasal dari Jepang, skill dance luar biasa"
+    },
+    {
+      "no": 132,
+      "grup": "ENHYPEN",
+      "jawaban": "Niki",
+      "image": "https://i.pinimg.com/originals/5d/0d/2c/5d0d2c1f3970e8870b433172f7dc738d.jpg",
+      "clue": "Maknae & main dancer ENHYPEN, berasal dari Jepang, skill dance luar biasa"
+    },
+    {
+      "no": 133,
+      "grup": "ITZY",
+      "jawaban": "Yeji",
+      "image": "https://i.pinimg.com/originals/39/e5/a8/39e5a81d6715d5619e24e701f1931cc0.jpg",
+      "clue": "Leader ITZY, main dancer, cat-like eyes yang khas, sangat karismatik"
+    },
+    {
+      "no": 134,
+      "grup": "ITZY",
+      "jawaban": "Yeji",
+      "image": "https://i.pinimg.com/originals/1d/f3/0b/1df30b241d89fea25c892000e9033994.jpg",
+      "clue": "Leader ITZY, main dancer, cat-like eyes yang khas, sangat karismatik"
+    },
+    {
+      "no": 135,
+      "grup": "ITZY",
+      "jawaban": "Ryujin",
+      "image": "https://i.pinimg.com/originals/dd/1a/7f/dd1a7fee26880260ad509f8886a48ffc.jpg",
+      "clue": "Rapper & dancer ITZY, cool girl vibes, mantan trainee JYP"
+    },
+    {
+      "no": 136,
+      "grup": "ITZY",
+      "jawaban": "Ryujin",
+      "image": "https://i.pinimg.com/originals/3a/2e/7d/3a2e7dc737ac35802a4e5f6f810c6200.jpg",
+      "clue": "Rapper & dancer ITZY, cool girl vibes, mantan trainee JYP"
+    },
+    {
+      "no": 137,
+      "grup": "ITZY",
+      "jawaban": "Chaeryeong",
+      "image": "https://i.pinimg.com/originals/08/3a/3c/083a3c7f318a7a8347975588f357fe63.jpg",
+      "clue": "Main dancer ITZY, adik dari IZ*ONE Lee Chaeyeon, fleksibel banget"
+    },
+    {
+      "no": 138,
+      "grup": "ITZY",
+      "jawaban": "Chaeryeong",
+      "image": "https://i.pinimg.com/originals/33/38/a1/3338a18293cdbd93b9b5c9c42f613e64.jpg",
+      "clue": "Main dancer ITZY, adik dari IZ*ONE Lee Chaeyeon, fleksibel banget"
+    },
+    {
+      "no": 139,
+      "grup": "ITZY",
+      "jawaban": "Yuna",
+      "image": "https://i.pinimg.com/originals/be/57/d7/be57d729fc72ad05d30072a9fd399de5.jpg",
+      "clue": "Maknae & visual ITZY, tinggi 170cm, model berbakat"
+    },
+    {
+      "no": 140,
+      "grup": "ITZY",
+      "jawaban": "Yuna",
+      "image": "https://i.pinimg.com/originals/99/27/b4/9927b48e4631c42ee99bcb4c43be8eca.jpg",
+      "clue": "Maknae & visual ITZY, tinggi 170cm, model berbakat"
+    },
+    {
+      "no": 141,
+      "grup": "ITZY",
+      "jawaban": "Lia",
+      "image": "https://i.pinimg.com/originals/7f/e2/af/7fe2af8038fba0098118d1ad43c5e09c.jpg",
+      "clue": "Vokal ITZY, berasal dari Vancouver Kanada, berbicara bahasa Inggris fasih"
+    },
+    {
+      "no": 142,
+      "grup": "ITZY",
+      "jawaban": "Lia",
+      "image": "https://i.pinimg.com/originals/09/4d/06/094d06e2c52b10e319d9e0d90e5991fe.jpg",
+      "clue": "Vokal ITZY, berasal dari Vancouver Kanada, berbicara bahasa Inggris fasih"
+    },
+    {
+      "no": 143,
+      "grup": "aespa",
+      "jawaban": "Karina",
+      "image": "https://i.pinimg.com/originals/20/1b/38/201b383d96be641f17994feb714b2353.png",
+      "clue": "Leader aespa, visual utama, nama asli Yoo Jimin, dance powerful"
+    },
+    {
+      "no": 144,
+      "grup": "aespa",
+      "jawaban": "Karina",
+      "image": "https://i.pinimg.com/originals/1d/cc/34/1dcc348975e38e660fee47593f327b1e.jpg",
+      "clue": "Leader aespa, visual utama, nama asli Yoo Jimin, dance powerful"
+    },
+    {
+      "no": 145,
+      "grup": "aespa",
+      "jawaban": "Winter",
+      "image": "https://i.pinimg.com/originals/3c/4d/e3/3c4de3520ec89d50da1e2168995cdd8d.jpg",
+      "clue": "Vokal & visual aespa, nama asli Kim Minjeong, tampil pure & stylish"
+    },
+    {
+      "no": 146,
+      "grup": "aespa",
+      "jawaban": "Winter",
+      "image": "https://i.pinimg.com/originals/a0/e5/b1/a0e5b1334418c43b1b2e1fb953972066.jpg",
+      "clue": "Vokal & visual aespa, nama asli Kim Minjeong, tampil pure & stylish"
+    },
+    {
+      "no": 147,
+      "grup": "aespa",
+      "jawaban": "Giselle",
+      "image": "https://i.pinimg.com/originals/d3/ef/27/d3ef27a2381dd4c8403b22ee833d7b3f.jpg",
+      "clue": "Rapper aespa, berasal dari Jepang, fasih bahasa Inggris-Korea-Jepang"
+    },
+    {
+      "no": 148,
+      "grup": "aespa",
+      "jawaban": "Giselle",
+      "image": "https://i.pinimg.com/originals/98/37/fc/9837fcb8e8add8bceffbd9082dae06a8.jpg",
+      "clue": "Rapper aespa, berasal dari Jepang, fasih bahasa Inggris-Korea-Jepang"
+    },
+    {
+      "no": 149,
+      "grup": "aespa",
+      "jawaban": "Ningning",
+      "image": "https://i.pinimg.com/originals/d2/a4/87/d2a487776de8fb2c40da6c193b060fa6.jpg",
+      "clue": "Vokal utama aespa, berasal dari China, high note memukau"
+    },
+    {
+      "no": 150,
+      "grup": "aespa",
+      "jawaban": "Ningning",
+      "image": "https://i.pinimg.com/originals/d9/a5/d5/d9a5d5f3ca159f8577da05b91a69793e.jpg",
+      "clue": "Vokal utama aespa, berasal dari China, high note memukau"
+    },
+    {
+      "no": 151,
+      "grup": "IVE",
+      "jawaban": "Wonyoung",
+      "image": "https://i.pinimg.com/originals/e9/69/6f/e9696fde8e7e1cf5b2ead9d64f23f189.jpg",
+      "clue": "Visual & center IVE, mantan IZ*ONE, maknae terpopuler, tinggi 173cm"
+    },
+    {
+      "no": 152,
+      "grup": "IVE",
+      "jawaban": "Wonyoung",
+      "image": "https://i.pinimg.com/originals/ff/ec/b4/ffecb46ba777e9d3e570a35f1ebf36ff.jpg",
+      "clue": "Visual & center IVE, mantan IZ*ONE, maknae terpopuler, tinggi 173cm"
+    },
+    {
+      "no": 153,
+      "grup": "IVE",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/11/74/fc/1174fc75f3e66ac21657423b927722ed.jpg",
+      "clue": "Leader IVE, mantan IZ*ONE, dancer kuat & charismatic di panggung"
+    },
+    {
+      "no": 154,
+      "grup": "IVE",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/c4/80/ec/c480ecb98b15209748401b8d52be7c1a.jpg",
+      "clue": "Leader IVE, mantan IZ*ONE, dancer kuat & charismatic di panggung"
+    },
+    {
+      "no": 155,
+      "grup": "IVE",
+      "jawaban": "Gaeul",
+      "image": "https://i.pinimg.com/originals/24/07/d3/2407d3a9c776018fd344c9fe61340c04.jpg",
+      "clue": "Vokal IVE, wajah anggun, dikenal dengan aura elegan & mature"
+    },
+    {
+      "no": 156,
+      "grup": "IVE",
+      "jawaban": "Gaeul",
+      "image": "https://i.pinimg.com/originals/c6/30/a8/c630a8e88eb92651c292f615b9700db0.jpg",
+      "clue": "Vokal IVE, wajah anggun, dikenal dengan aura elegan & mature"
+    },
+    {
+      "no": 157,
+      "grup": "IVE",
+      "jawaban": "Liz",
+      "image": "https://i.pinimg.com/originals/4d/44/42/4d4442270220285fa26de26f7285e854.jpg",
+      "clue": "Vokal IVE, tinggi & memukau, suara powerful nan merdu"
+    },
+    {
+      "no": 158,
+      "grup": "IVE",
+      "jawaban": "Liz",
+      "image": "https://i.pinimg.com/originals/75/aa/a2/75aaa2b0aa79607a26134d83a83fbc18.jpg",
+      "clue": "Vokal IVE, tinggi & memukau, suara powerful nan merdu"
+    },
+    {
+      "no": 159,
+      "grup": "IVE",
+      "jawaban": "Leeseo",
+      "image": "https://i.pinimg.com/originals/c8/fe/36/c8fe361923d90e0bad8081b5d92af554.jpg",
+      "clue": "Maknae IVE, visual fresh & natural, debut termuda di IVE"
+    },
+    {
+      "no": 160,
+      "grup": "IVE",
+      "jawaban": "Leeseo",
+      "image": "https://i.pinimg.com/originals/d9/87/56/d98756ae01800e2bf26ebd22f7425748.jpg",
+      "clue": "Maknae IVE, visual fresh & natural, debut termuda di IVE"
+    },
+    {
+      "no": 161,
+      "grup": "IVE",
+      "jawaban": "Rei",
+      "image": "https://i.pinimg.com/originals/69/c6/0b/69c60bf42c4679e54a334ce31384cc74.jpg",
+      "clue": "Dancer IVE, berasal dari Jepang, cool image dengan skill dance rapi"
+    },
+    {
+      "no": 162,
+      "grup": "IVE",
+      "jawaban": "Rei",
+      "image": "https://i.pinimg.com/originals/70/d1/36/70d136080aaf45d106a08cd9e73e5106.jpg",
+      "clue": "Dancer IVE, berasal dari Jepang, cool image dengan skill dance rapi"
+    },
+    {
+      "no": 163,
+      "grup": "(G)I-DLE",
+      "jawaban": "Soyeon",
+      "image": "https://i.pinimg.com/originals/ad/99/44/ad9944062d9cdf7a3f32e98e97a26763.jpg",
+      "clue": "Leader & produser (G)I-DLE, rapper jenius, menulis semua lagu grup"
+    },
+    {
+      "no": 164,
+      "grup": "(G)I-DLE",
+      "jawaban": "Soyeon",
+      "image": "https://i.pinimg.com/originals/c0/5e/86/c05e86edf3d7a8b59b4d56b74af2688f.jpg",
+      "clue": "Leader & produser (G)I-DLE, rapper jenius, menulis semua lagu grup"
+    },
+    {
+      "no": 165,
+      "grup": "(G)I-DLE",
+      "jawaban": "Miyeon",
+      "image": "https://i.pinimg.com/originals/70/19/a0/7019a00d5f3cd0d04b1deb668ccb06e8.jpg",
+      "clue": "Vokal utama (G)I-DLE, mantan trainee SM, visual lembut & elegan"
+    },
+    {
+      "no": 166,
+      "grup": "(G)I-DLE",
+      "jawaban": "Miyeon",
+      "image": "https://i.pinimg.com/originals/f3/17/ff/f317ffedde9bf799547359e60c5edd97.jpg",
+      "clue": "Vokal utama (G)I-DLE, mantan trainee SM, visual lembut & elegan"
+    },
+    {
+      "no": 167,
+      "grup": "(G)I-DLE",
+      "jawaban": "Yuqi",
+      "image": "https://i.pinimg.com/originals/6d/7b/61/6d7b610ce7d49a9cccff57f3f97a56e2.jpg",
+      "clue": "Vokal & rapper (G)I-DLE, berasal dari China, energetik & lucu"
+    },
+    {
+      "no": 168,
+      "grup": "(G)I-DLE",
+      "jawaban": "Yuqi",
+      "image": "https://i.pinimg.com/originals/4d/a7/80/4da780288ac9f3722b7a3fdb7cd57c35.jpg",
+      "clue": "Vokal & rapper (G)I-DLE, berasal dari China, energetik & lucu"
+    },
+    {
+      "no": 169,
+      "grup": "(G)I-DLE",
+      "jawaban": "Minnie",
+      "image": "https://i.pinimg.com/originals/95/cd/d4/95cdd44bf2bb172ba50c81887696c1b5.jpg",
+      "clue": "Vokal (G)I-DLE, berasal dari Thailand, jago gitar & piano"
+    },
+    {
+      "no": 170,
+      "grup": "(G)I-DLE",
+      "jawaban": "Minnie",
+      "image": "https://i.pinimg.com/originals/fa/7e/40/fa7e403fd0f8aa67465151d60a42a97f.jpg",
+      "clue": "Vokal (G)I-DLE, berasal dari Thailand, jago gitar & piano"
+    },
+    {
+      "no": 171,
+      "grup": "(G)I-DLE",
+      "jawaban": "Shuhua",
+      "image": "https://i.pinimg.com/originals/b2/e1/47/b2e1476758333c7225ccc8aeb47142db.jpg",
+      "clue": "Visual (G)I-DLE, berasal dari Taiwan, tampil dengan aura misterius"
+    },
+    {
+      "no": 172,
+      "grup": "(G)I-DLE",
+      "jawaban": "Shuhua",
+      "image": "https://i.pinimg.com/originals/05/d4/84/05d4849c68491d312790afeb3b15df7b.jpg",
+      "clue": "Visual (G)I-DLE, berasal dari Taiwan, tampil dengan aura misterius"
+    },
+    {
+      "no": 173,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Sakura",
+      "image": "https://i.pinimg.com/originals/51/be/dd/51bedd48255de0b750db18c1faa2df26.jpg",
+      "clue": "Vokal LE SSERAFIM, mantan AKB48 & IZ*ONE, legend idol Jepang"
+    },
+    {
+      "no": 174,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Sakura",
+      "image": "https://i.pinimg.com/originals/1e/f8/50/1ef850cdbd6d803f7afaf1e1381d084a.jpg",
+      "clue": "Vokal LE SSERAFIM, mantan AKB48 & IZ*ONE, legend idol Jepang"
+    },
+    {
+      "no": 175,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Chaewon",
+      "image": "https://i.pinimg.com/originals/fb/b8/91/fbb89114d7f489a272361f1c4a99f893.jpg",
+      "clue": "Leader LE SSERAFIM, mantan IZ*ONE, vokal & dancer andalan"
+    },
+    {
+      "no": 176,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Chaewon",
+      "image": "https://i.pinimg.com/originals/cd/43/37/cd4337e4dab145eb27a15c4b3d3805c1.jpg",
+      "clue": "Leader LE SSERAFIM, mantan IZ*ONE, vokal & dancer andalan"
+    },
+    {
+      "no": 177,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Kazuha",
+      "image": "https://i.pinimg.com/originals/85/ef/97/85ef97b4040084f74aaf1ffcda621232.jpg",
+      "clue": "Dancer LE SSERAFIM, berasal dari Jepang, mantan balerina profesional"
+    },
+    {
+      "no": 178,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Kazuha",
+      "image": "https://i.pinimg.com/originals/b5/31/53/b5315392ac1656024a65ea2d58900791.jpg",
+      "clue": "Dancer LE SSERAFIM, berasal dari Jepang, mantan balerina profesional"
+    },
+    {
+      "no": 179,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Yunjin",
+      "image": "https://i.pinimg.com/originals/f7/76/d7/f776d7d1dcf1ec6f9216b3b7d6051c7d.jpg",
+      "clue": "Vokal LE SSERAFIM, lahir & besar di New York Amerika"
+    },
+    {
+      "no": 180,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Yunjin",
+      "image": "https://i.pinimg.com/originals/2a/d1/9f/2ad19fc8aa9602b5c47c6710296da779.jpg",
+      "clue": "Vokal LE SSERAFIM, lahir & besar di New York Amerika"
+    },
+    {
+      "no": 181,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Eunchae",
+      "image": "https://i.pinimg.com/originals/ad/75/24/ad7524175579a4bf5e2168fdae9c5365.jpg",
+      "clue": "Maknae LE SSERAFIM, tinggi 172cm, energetik & penuh semangat"
+    },
+    {
+      "no": 182,
+      "grup": "LE SSERAFIM",
+      "jawaban": "Eunchae",
+      "image": "https://i.pinimg.com/originals/e2/c5/a7/e2c5a7bf0a0c0b309183d03d09698a0f.jpg",
+      "clue": "Maknae LE SSERAFIM, tinggi 172cm, energetik & penuh semangat"
+    },
+    {
+      "no": 183,
+      "grup": "NewJeans",
+      "jawaban": "Hanni",
+      "image": "https://i.pinimg.com/originals/45/69/67/456967ad65dc63524878e166d8921685.jpg",
+      "clue": "Vokal & dancer NewJeans, berasal dari Australia, berdarah Vietnam"
+    },
+    {
+      "no": 184,
+      "grup": "NewJeans",
+      "jawaban": "Hanni",
+      "image": "https://i.pinimg.com/originals/fd/9e/2e/fd9e2eeeee193209093a104d5e5e2704.jpg",
+      "clue": "Vokal & dancer NewJeans, berasal dari Australia, berdarah Vietnam"
+    },
+    {
+      "no": 185,
+      "grup": "NewJeans",
+      "jawaban": "Danielle",
+      "image": "https://i.pinimg.com/originals/6d/44/5d/6d445dcddecc19b8d71756d5b89f2c82.jpg",
+      "clue": "Vokal NewJeans, berdarah Korea-Irlandia, lahir di Brisbane Australia"
+    },
+    {
+      "no": 186,
+      "grup": "NewJeans",
+      "jawaban": "Danielle",
+      "image": "https://i.pinimg.com/originals/9c/cc/ae/9cccae3fbbc099244859dfcb91e73572.jpg",
+      "clue": "Vokal NewJeans, berdarah Korea-Irlandia, lahir di Brisbane Australia"
+    },
+    {
+      "no": 187,
+      "grup": "NewJeans",
+      "jawaban": "Haerin",
+      "image": "https://i.pinimg.com/originals/53/55/2e/53552e1d051ada1c687759285a077fb7.jpg",
+      "clue": "Visual NewJeans, cat-eyes ikonik, aura cool & misterius"
+    },
+    {
+      "no": 188,
+      "grup": "NewJeans",
+      "jawaban": "Haerin",
+      "image": "https://i.pinimg.com/originals/fa/79/0f/fa790f82d07c267fc0a9c0ba4692b92a.png",
+      "clue": "Visual NewJeans, cat-eyes ikonik, aura cool & misterius"
+    },
+    {
+      "no": 189,
+      "grup": "NewJeans",
+      "jawaban": "Hyein",
+      "image": "https://i.pinimg.com/originals/a3/48/fa/a348fa6ace23c332345977923803370b.jpg",
+      "clue": "Maknae NewJeans, debut di usia termuda, sering jadi model majalah"
+    },
+    {
+      "no": 190,
+      "grup": "NewJeans",
+      "jawaban": "Hyein",
+      "image": "https://i.pinimg.com/originals/74/0b/2d/740b2d46b8532f8555e07d837f862726.jpg",
+      "clue": "Maknae NewJeans, debut di usia termuda, sering jadi model majalah"
+    },
+    {
+      "no": 191,
+      "grup": "Red Velvet",
+      "jawaban": "Irene",
+      "image": "https://i.pinimg.com/originals/e2/25/8c/e2258c7e9a5508f6cd4f255c6fe4255b.jpg",
+      "clue": "Leader Red Velvet, visual ikonik SM, nama asli Bae Joohyun"
+    },
+    {
+      "no": 192,
+      "grup": "Red Velvet",
+      "jawaban": "Irene",
+      "image": "https://i.pinimg.com/originals/19/fc/1f/19fc1fe3e5d9c7647e6a7d6f5b18a668.jpg",
+      "clue": "Leader Red Velvet, visual ikonik SM, nama asli Bae Joohyun"
+    },
+    {
+      "no": 193,
+      "grup": "Red Velvet",
+      "jawaban": "Seulgi",
+      "image": "https://i.pinimg.com/originals/65/4d/fa/654dfa04cc61392d8dac999395b2928e.jpg",
+      "clue": "Main dancer Red Velvet, stage presence luar biasa, jago akrobatik"
+    },
+    {
+      "no": 194,
+      "grup": "Red Velvet",
+      "jawaban": "Seulgi",
+      "image": "https://i.pinimg.com/originals/79/f8/f9/79f8f9b1eb2cda2a16f2f83f6b271b68.jpg",
+      "clue": "Main dancer Red Velvet, stage presence luar biasa, jago akrobatik"
+    },
+    {
+      "no": 195,
+      "grup": "Red Velvet",
+      "jawaban": "Wendy",
+      "image": "https://i.pinimg.com/originals/c1/b3/eb/c1b3ebc7928e6662220b856e2cf95fc5.jpg",
+      "clue": "Vokal utama Red Velvet, berasal dari Kanada, suara emas nan powerful"
+    },
+    {
+      "no": 196,
+      "grup": "Red Velvet",
+      "jawaban": "Wendy",
+      "image": "https://i.pinimg.com/originals/4e/2c/bf/4e2cbfe7641942e05011b11ee13066e5.png",
+      "clue": "Vokal utama Red Velvet, berasal dari Kanada, suara emas nan powerful"
+    },
+    {
+      "no": 197,
+      "grup": "Red Velvet",
+      "jawaban": "Yeri",
+      "image": "https://i.pinimg.com/originals/2c/ba/26/2cba267684c90b269da95027c454af8d.jpg",
+      "clue": "Maknae Red Velvet, rapper & vokal, suka fashion & seni"
+    },
+    {
+      "no": 198,
+      "grup": "Red Velvet",
+      "jawaban": "Yeri",
+      "image": "https://i.pinimg.com/originals/c4/0f/95/c40f95e93a64482bac1791732d6ab8ed.jpg",
+      "clue": "Maknae Red Velvet, rapper & vokal, suka fashion & seni"
+    },
+    {
+      "no": 199,
+      "grup": "MAMAMOO",
+      "jawaban": "Solar",
+      "image": "https://i.pinimg.com/originals/84/03/64/84036483a068322a053a9c096908e204.jpg",
+      "clue": "Leader Mamamoo, vokal terkuat, nama asli Kim Yong-sun, suka cosplay"
+    },
+    {
+      "no": 200,
+      "grup": "MAMAMOO",
+      "jawaban": "Solar",
+      "image": "https://i.pinimg.com/originals/df/fb/7b/dffb7b8f58ea80c027c821842ab8d6f2.jpg",
+      "clue": "Leader Mamamoo, vokal terkuat, nama asli Kim Yong-sun, suka cosplay"
+    },
+    {
+      "no": 201,
+      "grup": "MAMAMOO",
+      "jawaban": "Moonbyul",
+      "image": "https://i.pinimg.com/originals/31/84/9f/31849fd413e2ed299ec033cc096e7d1f.jpg",
+      "clue": "Rapper & dancer Mamamoo, androgynous style, jago skateboard"
+    },
+    {
+      "no": 202,
+      "grup": "MAMAMOO",
+      "jawaban": "Moonbyul",
+      "image": "https://i.pinimg.com/originals/76/68/d7/7668d7744e1ecbfe6421eb0e31ec2566.jpg",
+      "clue": "Rapper & dancer Mamamoo, androgynous style, jago skateboard"
+    },
+    {
+      "no": 203,
+      "grup": "MAMAMOO",
+      "jawaban": "Wheein",
+      "image": "https://i.pinimg.com/originals/1d/fe/75/1dfe75d44647d7a56849ce98b79125e1.jpg",
+      "clue": "Vokal & seniman Mamamoo, pelukis berbakat, suara jazzy unik"
+    },
+    {
+      "no": 204,
+      "grup": "MAMAMOO",
+      "jawaban": "Wheein",
+      "image": "https://i.pinimg.com/originals/3c/9f/cc/3c9fcc2a543eb76651c69ef8d494b937.jpg",
+      "clue": "Vokal & seniman Mamamoo, pelukis berbakat, suara jazzy unik"
+    },
+    {
+      "no": 205,
+      "grup": "MAMAMOO",
+      "jawaban": "Hwasa",
+      "image": "https://i.pinimg.com/originals/d0/60/f4/d060f49e2d6a9ac45b90b6b62c5a3142.jpg",
+      "clue": "Vokal Mamamoo, confident & berani, solo 'Maria' fenomenal"
+    },
+    {
+      "no": 206,
+      "grup": "MAMAMOO",
+      "jawaban": "Hwasa",
+      "image": "https://i.pinimg.com/originals/39/fb/d9/39fbd97dd8eb94dac79045939d8741b1.jpg",
+      "clue": "Vokal Mamamoo, confident & berani, solo 'Maria' fenomenal"
+    },
+    {
+      "no": 207,
+      "grup": "TXT",
+      "jawaban": "Yeonjun",
+      "image": "https://i.pinimg.com/originals/a4/dc/13/a4dc131d7a6a298ff19ba0b13c62c17a.jpg",
+      "clue": "Multi-talented TXT, pertama diumumkan, dance & rap terbaik"
+    },
+    {
+      "no": 208,
+      "grup": "TXT",
+      "jawaban": "Yeonjun",
+      "image": "https://i.pinimg.com/originals/6f/54/1e/6f541e8a58c63a780977097cdf30f2eb.jpg",
+      "clue": "Multi-talented TXT, pertama diumumkan, dance & rap terbaik"
+    },
+    {
+      "no": 209,
+      "grup": "TXT",
+      "jawaban": "Beomgyu",
+      "image": "https://i.pinimg.com/originals/ad/8a/01/ad8a01771c10215a6a24fb416933378b.jpg",
+      "clue": "Vokal & dancer TXT, jago gitar, suka fashion unik & quirky"
+    },
+    {
+      "no": 210,
+      "grup": "TXT",
+      "jawaban": "Beomgyu",
+      "image": "https://i.pinimg.com/originals/17/73/0c/17730c2e12b393a9236bc61ab71cbbef.jpg",
+      "clue": "Vokal & dancer TXT, jago gitar, suka fashion unik & quirky"
+    },
+    {
+      "no": 211,
+      "grup": "TXT",
+      "jawaban": "Hueningkai",
+      "image": "https://i.pinimg.com/originals/4f/9f/bd/4f9fbdbd88792956c6f6b7a620cf8993.jpg",
+      "clue": "Maknae TXT, berdarah Korea-Amerika-Jerman, jago piano"
+    },
+    {
+      "no": 212,
+      "grup": "TXT",
+      "jawaban": "Hueningkai",
+      "image": "https://i.pinimg.com/originals/11/0a/5f/110a5f7dfbed294bdfb7646799d87a76.jpg",
+      "clue": "Maknae TXT, berdarah Korea-Amerika-Jerman, jago piano"
+    },
+    {
+      "no": 213,
+      "grup": "ATEEZ",
+      "jawaban": "Hongjoong",
+      "image": "https://i.pinimg.com/originals/ad/d1/48/add148c48f8ca3e18abf0cbb55b03cbb.jpg",
+      "clue": "Leader & rapper ATEEZ, produser lagu, nama asli Kim Hongjoong"
+    },
+    {
+      "no": 214,
+      "grup": "ATEEZ",
+      "jawaban": "Hongjoong",
+      "image": "https://i.pinimg.com/originals/db/20/46/db20467cfb28fe4f070a51473f55a3e2.jpg",
+      "clue": "Leader & rapper ATEEZ, produser lagu, nama asli Kim Hongjoong"
+    },
+    {
+      "no": 215,
+      "grup": "ATEEZ",
+      "jawaban": "Seonghwa",
+      "image": "https://i.pinimg.com/originals/6d/fd/96/6dfd961b3924a14ef9944ff6a6615012.jpg",
+      "clue": "Visual ATEEZ, tertua di grup, stage performance gothic & dramatis"
+    },
+    {
+      "no": 216,
+      "grup": "ATEEZ",
+      "jawaban": "Seonghwa",
+      "image": "https://i.pinimg.com/originals/bd/f2/c6/bdf2c66899aa52704e8d28b4de6941b7.jpg",
+      "clue": "Visual ATEEZ, tertua di grup, stage performance gothic & dramatis"
+    },
+    {
+      "no": 217,
+      "grup": "ATEEZ",
+      "jawaban": "Yunho",
+      "image": "https://i.pinimg.com/originals/e1/6e/db/e16edb8f516698214104f965ddbc0cc6.jpg",
+      "clue": "Vokal & dancer ATEEZ, tertinggi 187cm, friendly & hangat"
+    },
+    {
+      "no": 218,
+      "grup": "ATEEZ",
+      "jawaban": "Yunho",
+      "image": "https://i.pinimg.com/originals/86/2e/f5/862ef5e2d4102a0339356c04f31a05ed.jpg",
+      "clue": "Vokal & dancer ATEEZ, tertinggi 187cm, friendly & hangat"
+    },
+    {
+      "no": 219,
+      "grup": "ATEEZ",
+      "jawaban": "Yeosang",
+      "image": "https://i.pinimg.com/originals/fc/cd/3e/fccd3e37c15c5a7506ae90a62c8a0c91.jpg",
+      "clue": "Vokal & visual ATEEZ, mantan trainee SM, suka manga & anime"
+    },
+    {
+      "no": 220,
+      "grup": "ATEEZ",
+      "jawaban": "Yeosang",
+      "image": "https://i.pinimg.com/originals/64/ae/b8/64aeb86589f88a32b85e1e884dcd8441.jpg",
+      "clue": "Vokal & visual ATEEZ, mantan trainee SM, suka manga & anime"
+    },
+    {
+      "no": 221,
+      "grup": "ATEEZ",
+      "jawaban": "San",
+      "image": "https://i.pinimg.com/originals/26/89/29/2689299516321fdba5f6d5a6f3a155ed.jpg",
+      "clue": "Performer ATEEZ, expressi panggung paling intense & memukau"
+    },
+    {
+      "no": 222,
+      "grup": "ATEEZ",
+      "jawaban": "San",
+      "image": "https://i.pinimg.com/originals/b3/89/dd/b389dd284438c2ca07082c9b21e25970.jpg",
+      "clue": "Performer ATEEZ, expressi panggung paling intense & memukau"
+    },
+    {
+      "no": 223,
+      "grup": "ATEEZ",
+      "jawaban": "Mingi",
+      "image": "https://i.pinimg.com/originals/fb/03/85/fb03856277f639b79771f2c7153e27c4.jpg",
+      "clue": "Rapper ATEEZ, tinggi 186cm, energi panggung yang eksplosif"
+    },
+    {
+      "no": 224,
+      "grup": "ATEEZ",
+      "jawaban": "Mingi",
+      "image": "https://i.pinimg.com/originals/bc/fd/5a/bcfd5ab02d2ec102fcb6ba4d97fa9753.jpg",
+      "clue": "Rapper ATEEZ, tinggi 186cm, energi panggung yang eksplosif"
+    },
+    {
+      "no": 225,
+      "grup": "ATEEZ",
+      "jawaban": "Wooyoung",
+      "image": "https://i.pinimg.com/originals/6a/4d/95/6a4d9574c434906b427f80f6f38c838a.jpg",
+      "clue": "Dancer & vokal ATEEZ, sahabat dekat Jimin BTS sejak sekolah"
+    },
+    {
+      "no": 226,
+      "grup": "ATEEZ",
+      "jawaban": "Wooyoung",
+      "image": "https://i.pinimg.com/originals/76/51/e4/7651e4697763f1453c738679605a6e0f.jpg",
+      "clue": "Dancer & vokal ATEEZ, sahabat dekat Jimin BTS sejak sekolah"
+    },
+    {
+      "no": 227,
+      "grup": "ATEEZ",
+      "jawaban": "Jongho",
+      "image": "https://i.pinimg.com/originals/77/f4/62/77f46220603d52f63c7ff6d1a7bb4e6b.jpg",
+      "clue": "Vokal utama ATEEZ, suara high note memecahkan apel, jago taekwondo"
+    },
+    {
+      "no": 228,
+      "grup": "ATEEZ",
+      "jawaban": "Jongho",
+      "image": "https://i.pinimg.com/originals/de/3e/fb/de3efb8c52c932b8e15444786fa8a425.jpg",
+      "clue": "Vokal utama ATEEZ, suara high note memecahkan apel, jago taekwondo"
+    },
+    {
+      "no": 229,
+      "grup": "IZ*ONE",
+      "jawaban": "Eunbi",
+      "image": "https://i.pinimg.com/originals/93/3a/53/933a53094ba53252a027c98018171eab.jpg",
+      "clue": "Leader IZ*ONE, mantan AFOS, vokal & dancer berpengalaman"
+    },
+    {
+      "no": 230,
+      "grup": "IZ*ONE",
+      "jawaban": "Eunbi",
+      "image": "https://i.pinimg.com/originals/5b/af/64/5baf64d27a6dab929d3be1ccc8491cd5.jpg",
+      "clue": "Leader IZ*ONE, mantan AFOS, vokal & dancer berpengalaman"
+    },
+    {
+      "no": 231,
+      "grup": "IZ*ONE",
+      "jawaban": "Sakura",
+      "image": "https://i.pinimg.com/originals/31/c6/72/31c67224a6149919ffdec9acdf75e731.jpg",
+      "clue": "Vokal IZ*ONE, mantan kapten AKB48, idol paling berpengalaman"
+    },
+    {
+      "no": 232,
+      "grup": "IZ*ONE",
+      "jawaban": "Sakura",
+      "image": "https://i.pinimg.com/originals/f7/33/1e/f7331e632f1dba8964f7bad8a69c6b8f.jpg",
+      "clue": "Vokal IZ*ONE, mantan kapten AKB48, idol paling berpengalaman"
+    },
+    {
+      "no": 233,
+      "grup": "IZ*ONE",
+      "jawaban": "Hyewon",
+      "image": "https://i.pinimg.com/originals/da/58/bc/da58bcb4690b91b0971323fe1139dc27.jpg",
+      "clue": "Visual IZ*ONE, nama asli Kang Hyewon, aura elegan & dingin"
+    },
+    {
+      "no": 234,
+      "grup": "IZ*ONE",
+      "jawaban": "Hyewon",
+      "image": "https://i.pinimg.com/originals/ce/5c/0d/ce5c0db511deb8cc6779b22ff5c6f7d4.jpg",
+      "clue": "Visual IZ*ONE, nama asli Kang Hyewon, aura elegan & dingin"
+    },
+    {
+      "no": 235,
+      "grup": "IZ*ONE",
+      "jawaban": "Yena",
+      "image": "https://i.pinimg.com/originals/5b/96/36/5b96365ae240a46507d451d1b5ecd43e.jpg",
+      "clue": "Rapper & vokal IZ*ONE, energik & lucu, fans besar Jay Park"
+    },
+    {
+      "no": 236,
+      "grup": "IZ*ONE",
+      "jawaban": "Yena",
+      "image": "https://i.pinimg.com/originals/36/ce/80/36ce80a3d3df658b859f14204a439506.jpg",
+      "clue": "Rapper & vokal IZ*ONE, energik & lucu, fans besar Jay Park"
+    },
+    {
+      "no": 237,
+      "grup": "IZ*ONE",
+      "jawaban": "Chaeyeon",
+      "image": "https://i.pinimg.com/originals/1c/e0/59/1ce059b4ae79700a41f119b31a0f9a21.jpg",
+      "clue": "Main dancer IZ*ONE, adik dari ITZY Chaeryeong, fleksibel luar biasa"
+    },
+    {
+      "no": 238,
+      "grup": "IZ*ONE",
+      "jawaban": "Chaeyeon",
+      "image": "https://i.pinimg.com/originals/4c/4f/97/4c4f97d7a3e182b4151767ea248ddaaa.jpg",
+      "clue": "Main dancer IZ*ONE, adik dari ITZY Chaeryeong, fleksibel luar biasa"
+    },
+    {
+      "no": 239,
+      "grup": "IZ*ONE",
+      "jawaban": "Chaewon",
+      "image": "https://i.pinimg.com/originals/cd/43/37/cd4337e4dab145eb27a15c4b3d3805c1.jpg",
+      "clue": "Vokal & visual IZ*ONE, sekarang leader LE SSERAFIM"
+    },
+    {
+      "no": 240,
+      "grup": "IZ*ONE",
+      "jawaban": "Chaewon",
+      "image": "https://i.pinimg.com/originals/fe/de/4c/fede4cd0ccfdccca56bc3e77c4022aed.jpg",
+      "clue": "Vokal & visual IZ*ONE, sekarang leader LE SSERAFIM"
+    },
+    {
+      "no": 241,
+      "grup": "IZ*ONE",
+      "jawaban": "Minju",
+      "image": "https://i.pinimg.com/originals/a5/8c/b6/a58cb67e5cbb15b16b87cce8adc2b97c.jpg",
+      "clue": "Visual IZ*ONE, wajah doll-like sempurna, asal Anyang Korea"
+    },
+    {
+      "no": 242,
+      "grup": "IZ*ONE",
+      "jawaban": "Minju",
+      "image": "https://i.pinimg.com/originals/90/5f/63/905f638d4ee424f693350188aaeec7d1.jpg",
+      "clue": "Visual IZ*ONE, wajah doll-like sempurna, asal Anyang Korea"
+    },
+    {
+      "no": 243,
+      "grup": "IZ*ONE",
+      "jawaban": "Nako",
+      "image": "https://i.pinimg.com/originals/14/ba/aa/14baaaacf6931605ff6daf78d72df13a.jpg",
+      "clue": "Vokal IZ*ONE, berasal dari Jepang, imut & mungil (tinggi 151cm)"
+    },
+    {
+      "no": 244,
+      "grup": "IZ*ONE",
+      "jawaban": "Nako",
+      "image": "https://i.pinimg.com/originals/72/85/01/728501e5178ac1900673bb6e0fba192d.jpg",
+      "clue": "Vokal IZ*ONE, berasal dari Jepang, imut & mungil (tinggi 151cm)"
+    },
+    {
+      "no": 245,
+      "grup": "IZ*ONE",
+      "jawaban": "Hitomi",
+      "image": "https://i.pinimg.com/originals/64/b4/5b/64b45b7e04971b8c937a2b0fdeceda63.jpg",
+      "clue": "Dancer IZ*ONE, berasal dari Jepang, mantan AKB48 team 8"
+    },
+    {
+      "no": 246,
+      "grup": "IZ*ONE",
+      "jawaban": "Hitomi",
+      "image": "https://i.pinimg.com/originals/73/53/44/735344dafa1c2788e443a25b329659c8.jpg",
+      "clue": "Dancer IZ*ONE, berasal dari Jepang, mantan AKB48 team 8"
+    },
+    {
+      "no": 247,
+      "grup": "IZ*ONE",
+      "jawaban": "Yuri",
+      "image": "https://i.pinimg.com/originals/1c/ab/46/1cab46fb0cacf9963705e6725485769f.jpg",
+      "clue": "Vokal IZ*ONE, asal Incheon Korea, suara mellow yang khas"
+    },
+    {
+      "no": 248,
+      "grup": "IZ*ONE",
+      "jawaban": "Yuri",
+      "image": "https://i.pinimg.com/originals/ee/c9/7f/eec97f2fd6d859a3bb72b490883dea26.jpg",
+      "clue": "Vokal IZ*ONE, asal Incheon Korea, suara mellow yang khas"
+    },
+    {
+      "no": 249,
+      "grup": "IZ*ONE",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/9f/e0/13/9fe013af63cd0ff69c56f56b548c8894.jpg",
+      "clue": "Vokal & dancer IZ*ONE, sekarang co-leader IVE bersama Wonyoung"
+    },
+    {
+      "no": 250,
+      "grup": "IZ*ONE",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/e3/0c/3c/e30c3c50e6f35d7f0afd34ddda530afc.jpg",
+      "clue": "Vokal & dancer IZ*ONE, sekarang co-leader IVE bersama Wonyoung"
+    },
+    {
+      "no": 251,
+      "grup": "IZ*ONE",
+      "jawaban": "Wonyoung",
+      "image": "https://i.pinimg.com/originals/e9/69/6f/e9696fde8e7e1cf5b2ead9d64f23f189.jpg",
+      "clue": "Center & maknae IZ*ONE, sekarang visual utama IVE"
+    },
+    {
+      "no": 252,
+      "grup": "IZ*ONE",
+      "jawaban": "Wonyoung",
+      "image": "https://i.pinimg.com/originals/ff/ec/b4/ffecb46ba777e9d3e570a35f1ebf36ff.jpg",
+      "clue": "Center & maknae IZ*ONE, sekarang visual utama IVE"
+    },
+    {
+      "no": 253,
+      "grup": "GOT7",
+      "jawaban": "Jayb",
+      "image": "https://i.pinimg.com/originals/e2/19/37/e2193707f6901729f2f7143eba7a3921.jpg",
+      "clue": "Leader GOT7, rapper & vokalis, nama asli Im Jaebum, cool dan karismatik"
+    },
+    {
+      "no": 254,
+      "grup": "GOT7",
+      "jawaban": "Jayb",
+      "image": "https://i.pinimg.com/originals/bb/2e/a8/bb2ea8976652d99343fce4e7a9125312.jpg",
+      "clue": "Leader GOT7, rapper & vokalis, nama asli Im Jaebum, cool dan karismatik"
+    },
+    {
+      "no": 255,
+      "grup": "GOT7",
+      "jawaban": "Mark",
+      "image": "https://i.pinimg.com/originals/ad/79/22/ad7922e59d9a534f98f034bae7111088.png",
+      "clue": "Dancer GOT7, berasal dari Los Angeles Amerika, jago martial arts"
+    },
+    {
+      "no": 256,
+      "grup": "GOT7",
+      "jawaban": "Mark",
+      "image": "https://i.pinimg.com/originals/40/e3/f3/40e3f3cf7c31f6af6fa245c8bd280a2e.jpg",
+      "clue": "Dancer GOT7, berasal dari Los Angeles Amerika, jago martial arts"
+    },
+    {
+      "no": 257,
+      "grup": "GOT7",
+      "jawaban": "Youngjae",
+      "image": "https://i.pinimg.com/originals/5e/5e/e3/5e5ee3d53bedf58ee150b378befb2100.jpg",
+      "clue": "Vokal utama GOT7, suara paling powerful & unik di grup"
+    },
+    {
+      "no": 258,
+      "grup": "GOT7",
+      "jawaban": "Youngjae",
+      "image": "https://i.pinimg.com/originals/86/b6/2d/86b62d6a7727602be122ce56ce9682f9.jpg",
+      "clue": "Vokal utama GOT7, suara paling powerful & unik di grup"
+    },
+    {
+      "no": 259,
+      "grup": "GOT7",
+      "jawaban": "Bambam",
+      "image": "https://i.pinimg.com/originals/be/82/66/be82665854ebf01a3e331fc614fc7d22.jpg",
+      "clue": "Rapper & fashionista GOT7, berasal dari Thailand, style ikonik"
+    },
+    {
+      "no": 260,
+      "grup": "GOT7",
+      "jawaban": "Bambam",
+      "image": "https://i.pinimg.com/originals/39/e8/40/39e840a8a6862804806307d1571c5d75.jpg",
+      "clue": "Rapper & fashionista GOT7, berasal dari Thailand, style ikonik"
+    },
+    {
+      "no": 261,
+      "grup": "GOT7",
+      "jawaban": "Yg",
+      "image": "https://i.pinimg.com/originals/a0/b6/ae/a0b6aefe9e27ef4fcc99d250cc8fa8f5.jpg",
+      "clue": "Maknae & dancer GOT7, nama asli Choi Youngjae, jago martial arts"
+    },
+    {
+      "no": 262,
+      "grup": "GOT7",
+      "jawaban": "Yg",
+      "image": "https://i.pinimg.com/originals/8e/60/f3/8e60f3fb0388c95581e9afde66df41dc.jpg",
+      "clue": "Maknae & dancer GOT7, nama asli Choi Youngjae, jago martial arts"
+    },
+    {
+      "no": 263,
+      "grup": "SHINee",
+      "jawaban": "Jonghyun",
+      "image": "https://i.pinimg.com/originals/9f/55/a9/9f55a91e140a67d152cf0bcf28732ea7.jpg",
+      "clue": "Vokal terbaik SHINee, musisi & penulis lagu, legenda K-pop"
+    },
+    {
+      "no": 264,
+      "grup": "SHINee",
+      "jawaban": "Jonghyun",
+      "image": "https://i.pinimg.com/originals/de/eb/23/deeb236e1a9fe8bbdb8fd6d36d4195fe.jpg",
+      "clue": "Vokal terbaik SHINee, musisi & penulis lagu, legenda K-pop"
+    },
+    {
+      "no": 265,
+      "grup": "SHINee",
+      "jawaban": "Key",
+      "image": "https://i.pinimg.com/originals/26/b4/7a/26b47a902aa74d9401eb5dbbc689f340.jpg",
+      "clue": "Vokal & fashionista SHINee, multi-talented, aktif di solo & musical"
+    },
+    {
+      "no": 266,
+      "grup": "SHINee",
+      "jawaban": "Key",
+      "image": "https://i.pinimg.com/originals/3d/ac/c4/3dacc4f771b9a6dd629b7c160d2cf1dd.jpg",
+      "clue": "Vokal & fashionista SHINee, multi-talented, aktif di solo & musical"
+    },
+    {
+      "no": 267,
+      "grup": "SHINee",
+      "jawaban": "Minho",
+      "image": "https://i.pinimg.com/originals/8d/8a/56/8d8a560ad19612e29fbee4776b1a60e8.jpg",
+      "clue": "Rapper & aktor SHINee, tinggi 181cm, mantan atlet sepak bola"
+    },
+    {
+      "no": 268,
+      "grup": "SHINee",
+      "jawaban": "Minho",
+      "image": "https://i.pinimg.com/originals/51/2e/6d/512e6d3972c54d641d434866776b8fbc.jpg",
+      "clue": "Rapper & aktor SHINee, tinggi 181cm, mantan atlet sepak bola"
+    },
+    {
+      "no": 269,
+      "grup": "SHINee",
+      "jawaban": "Taemin",
+      "image": "https://i.pinimg.com/originals/88/8c/15/888c15255cdf0bda4a1c7992a4833670.jpg",
+      "clue": "Maknae SHINee, main dancer terbaik generasinya, solo karier sukses"
+    },
+    {
+      "no": 270,
+      "grup": "SHINee",
+      "jawaban": "Taemin",
+      "image": "https://i.pinimg.com/originals/73/72/ae/7372ae95b432f7572e5daab9496e541f.jpg",
+      "clue": "Maknae SHINee, main dancer terbaik generasinya, solo karier sukses"
+    },
+    {
+      "no": 271,
+      "grup": "BIGBANG",
+      "jawaban": "G-dragon",
+      "image": "https://i.pinimg.com/originals/26/03/51/26035179d0331e13f2e36765d9d24777.jpg",
+      "clue": "Leader BIGBANG, raja K-pop, produser & ikon fashion dunia"
+    },
+    {
+      "no": 272,
+      "grup": "BIGBANG",
+      "jawaban": "G-dragon",
+      "image": "https://i.pinimg.com/originals/b4/f0/37/b4f0370a282599c9386a774adbe6f8e4.jpg",
+      "clue": "Leader BIGBANG, raja K-pop, produser & ikon fashion dunia"
+    },
+    {
+      "no": 273,
+      "grup": "BIGBANG",
+      "jawaban": "T.o.p",
+      "image": "https://i.pinimg.com/originals/62/33/ea/6233ea8ec036bca218b3fef2885da330.jpg",
+      "clue": "Rapper BIGBANG, aktor papan atas Korea, suara rap paling ikonik"
+    },
+    {
+      "no": 274,
+      "grup": "BIGBANG",
+      "jawaban": "T.o.p",
+      "image": "https://i.pinimg.com/originals/92/10/9a/92109a51a8a4c7c70404b57b996897a5.jpg",
+      "clue": "Rapper BIGBANG, aktor papan atas Korea, suara rap paling ikonik"
+    },
+    {
+      "no": 275,
+      "grup": "BIGBANG",
+      "jawaban": "Taeyang",
+      "image": "https://i.pinimg.com/originals/f0/7f/17/f07f17d3bd1bdee7a9cb4ae9991ea3f3.jpg",
+      "clue": "Vokal & dancer BIGBANG, nama asli Dong Youngbae, lagu 'Eyes Nose Lips'"
+    },
+    {
+      "no": 276,
+      "grup": "BIGBANG",
+      "jawaban": "Taeyang",
+      "image": "https://i.pinimg.com/originals/d2/fd/5b/d2fd5bc44890df1c384b172a58f96f3a.jpg",
+      "clue": "Vokal & dancer BIGBANG, nama asli Dong Youngbae, lagu 'Eyes Nose Lips'"
+    },
+    {
+      "no": 277,
+      "grup": "BIGBANG",
+      "jawaban": "Daesung",
+      "image": "https://i.pinimg.com/originals/9f/e7/14/9fe7143f573e975de80f227bb0734141.jpg",
+      "clue": "Vokal BIGBANG, comedian lucu di panggung, sangat populer di Jepang"
+    },
+    {
+      "no": 278,
+      "grup": "BIGBANG",
+      "jawaban": "Daesung",
+      "image": "https://i.pinimg.com/originals/8e/44/2a/8e442af5e580f03b3387a4ff467a4078.jpg",
+      "clue": "Vokal BIGBANG, comedian lucu di panggung, sangat populer di Jepang"
+    },
+    {
+      "no": 279,
+      "grup": "Girls' Generation",
+      "jawaban": "Taeyeon",
+      "image": "https://i.pinimg.com/originals/85/b9/d6/85b9d62668d07e5555fe5a08d62604c8.jpg",
+      "clue": "Leader Girls' Generation, vokal terbaik K-pop generasi 2, solo sukses"
+    },
+    {
+      "no": 280,
+      "grup": "Girls' Generation",
+      "jawaban": "Taeyeon",
+      "image": "https://i.pinimg.com/originals/10/67/ec/1067ecca233f0fd4727b2b5951561a74.jpg",
+      "clue": "Leader Girls' Generation, vokal terbaik K-pop generasi 2, solo sukses"
+    },
+    {
+      "no": 281,
+      "grup": "Girls' Generation",
+      "jawaban": "Sunny",
+      "image": "https://i.pinimg.com/originals/98/5a/e5/985ae5078801cff9079d3e5a69d7cbeb.jpg",
+      "clue": "Vokal Girls' Generation, keponakan pendiri SM Lee Soo Man, ceria"
+    },
+    {
+      "no": 282,
+      "grup": "Girls' Generation",
+      "jawaban": "Sunny",
+      "image": "https://i.pinimg.com/originals/db/e1/19/dbe119e3957377866c2358371d7967df.jpg",
+      "clue": "Vokal Girls' Generation, keponakan pendiri SM Lee Soo Man, ceria"
+    },
+    {
+      "no": 283,
+      "grup": "Girls' Generation",
+      "jawaban": "Tiffany",
+      "image": "https://i.pinimg.com/originals/7a/9e/75/7a9e75a7baf3e20d9ce0ebaba8eac2b2.jpg",
+      "clue": "Vokal Girls' Generation, berasal dari San Francisco Amerika"
+    },
+    {
+      "no": 284,
+      "grup": "Girls' Generation",
+      "jawaban": "Tiffany",
+      "image": "https://i.pinimg.com/originals/92/b7/61/92b761aa74ccb176f3df080ae136dbca.jpg",
+      "clue": "Vokal Girls' Generation, berasal dari San Francisco Amerika"
+    },
+    {
+      "no": 285,
+      "grup": "Girls' Generation",
+      "jawaban": "Hyoyeon",
+      "image": "https://i.pinimg.com/originals/29/80/13/298013220a5166c89940cffac7360e2b.jpg",
+      "clue": "Main dancer Girls' Generation, DJ profesional, juara dance battle"
+    },
+    {
+      "no": 286,
+      "grup": "Girls' Generation",
+      "jawaban": "Hyoyeon",
+      "image": "https://i.pinimg.com/originals/33/2f/59/332f590e72f864e898e006ec2c16d77f.jpg",
+      "clue": "Main dancer Girls' Generation, DJ profesional, juara dance battle"
+    },
+    {
+      "no": 287,
+      "grup": "Girls' Generation",
+      "jawaban": "Yuri",
+      "image": "https://i.pinimg.com/originals/2e/c4/55/2ec45563d389d661359b54b9f7b28ebe.jpg",
+      "clue": "Vokal & dancer Girls' Generation, aktor aktif, dari Incheon"
+    },
+    {
+      "no": 288,
+      "grup": "Girls' Generation",
+      "jawaban": "Yuri",
+      "image": "https://i.pinimg.com/originals/a9/e8/c2/a9e8c2dd846b7f814c7888c91cdaf6fe.jpg",
+      "clue": "Vokal & dancer Girls' Generation, aktor aktif, dari Incheon"
+    },
+    {
+      "no": 289,
+      "grup": "Girls' Generation",
+      "jawaban": "Sooyoung",
+      "image": "https://i.pinimg.com/originals/45/40/9b/45409b10ad8fc65fc52c67a82f6c41a7.jpg",
+      "clue": "Vokal & aktor Girls' Generation, tinggi 170cm, aktif di drama"
+    },
+    {
+      "no": 290,
+      "grup": "Girls' Generation",
+      "jawaban": "Sooyoung",
+      "image": "https://i.pinimg.com/originals/9b/d9/d7/9bd9d71bf408535d9dff1727abacfb5e.jpg",
+      "clue": "Vokal & aktor Girls' Generation, tinggi 170cm, aktif di drama"
+    },
+    {
+      "no": 291,
+      "grup": "Girls' Generation",
+      "jawaban": "Yoona",
+      "image": "https://i.pinimg.com/originals/ae/ec/93/aeec9375298b296a7e8bd5b1c3ee00a8.jpg",
+      "clue": "Visual Girls' Generation, aktris paling populer, nama asli Im Yoona"
+    },
+    {
+      "no": 292,
+      "grup": "Girls' Generation",
+      "jawaban": "Yoona",
+      "image": "https://i.pinimg.com/originals/f1/b1/3f/f1b13f827ddc5aeedc5d35d6ec8583fb.jpg",
+      "clue": "Visual Girls' Generation, aktris paling populer, nama asli Im Yoona"
+    },
+    {
+      "no": 293,
+      "grup": "Girls' Generation",
+      "jawaban": "Seohyun",
+      "image": "https://i.pinimg.com/originals/7f/d3/4a/7fd34ac1211b5c91e54b8dcbfcd0a019.jpg",
+      "clue": "Maknae Girls' Generation, vokal & aktris Broadway musical"
+    },
+    {
+      "no": 294,
+      "grup": "Girls' Generation",
+      "jawaban": "Seohyun",
+      "image": "https://i.pinimg.com/originals/60/57/d1/6057d1476a84b234a1bb0775a933340a.jpg",
+      "clue": "Maknae Girls' Generation, vokal & aktris Broadway musical"
+    },
+    {
+      "no": 295,
+      "grup": "Apink",
+      "jawaban": "Chorong",
+      "image": "https://i.pinimg.com/originals/da/cd/73/dacd73e4529fc045a232c2db6225fafc.jpg",
+      "clue": "Leader Apink, vokal, tampil anggun & berwibawa selalu"
+    },
+    {
+      "no": 296,
+      "grup": "Apink",
+      "jawaban": "Chorong",
+      "image": "https://i.pinimg.com/originals/43/b9/2d/43b92dfb6469720c96823934fb1c84fa.jpg",
+      "clue": "Leader Apink, vokal, tampil anggun & berwibawa selalu"
+    },
+    {
+      "no": 297,
+      "grup": "Apink",
+      "jawaban": "Bomi",
+      "image": "https://i.pinimg.com/originals/0f/f1/89/0ff189e2af828044b110aea812d46005.jpg",
+      "clue": "Vokal & dancer Apink, energik & kocak, jago akrobatik"
+    },
+    {
+      "no": 298,
+      "grup": "Apink",
+      "jawaban": "Bomi",
+      "image": "https://i.pinimg.com/originals/a4/5a/52/a45a52fe83d4c3e823f5cd22d0ef1d43.jpg",
+      "clue": "Vokal & dancer Apink, energik & kocak, jago akrobatik"
+    },
+    {
+      "no": 299,
+      "grup": "Apink",
+      "jawaban": "Eunji",
+      "image": "https://i.pinimg.com/originals/60/ee/2d/60ee2d7cca0cf506f08ffe7c809813af.jpg",
+      "clue": "Vokal utama Apink, aktris drama Korea sukses, suara emas"
+    },
+    {
+      "no": 300,
+      "grup": "Apink",
+      "jawaban": "Eunji",
+      "image": "https://i.pinimg.com/originals/ff/74/3a/ff743afe3ffb69fc6b379866c35621e6.jpg",
+      "clue": "Vokal utama Apink, aktris drama Korea sukses, suara emas"
+    },
+    {
+      "no": 301,
+      "grup": "Monsta X",
+      "jawaban": "Shownu",
+      "image": "https://i.pinimg.com/originals/c3/19/a4/c319a4ab957de5d7781f911435a486d5.jpg",
+      "clue": "Leader & main dancer Monsta X, mantan trainee SM, body atletis"
+    },
+    {
+      "no": 302,
+      "grup": "Monsta X",
+      "jawaban": "Shownu",
+      "image": "https://i.pinimg.com/originals/bb/3d/c3/bb3dc32cda934ca59092a5edacb49d9b.jpg",
+      "clue": "Leader & main dancer Monsta X, mantan trainee SM, body atletis"
+    },
+    {
+      "no": 303,
+      "grup": "Monsta X",
+      "jawaban": "Minhyuk",
+      "image": "https://i.pinimg.com/originals/34/03/ff/3403ff863c5386e00ca5fb10a73b4347.jpg",
+      "clue": "Vokal Monsta X, multi-entertainer, MC & aktor berbakat"
+    },
+    {
+      "no": 304,
+      "grup": "Monsta X",
+      "jawaban": "Minhyuk",
+      "image": "https://i.pinimg.com/originals/72/dc/63/72dc6355b058d4874967cdb62159673a.jpg",
+      "clue": "Vokal Monsta X, multi-entertainer, MC & aktor berbakat"
+    },
+    {
+      "no": 305,
+      "grup": "Monsta X",
+      "jawaban": "Kihyun",
+      "image": "https://i.pinimg.com/originals/af/6a/42/af6a42696a41a09321337296df7236b4.jpg",
+      "clue": "Vokal utama Monsta X, suara powerful, mantan trainee Star Empire"
+    },
+    {
+      "no": 306,
+      "grup": "Monsta X",
+      "jawaban": "Kihyun",
+      "image": "https://i.pinimg.com/originals/60/c3/d5/60c3d5173ea6eff77d37418463d4268e.jpg",
+      "clue": "Vokal utama Monsta X, suara powerful, mantan trainee Star Empire"
+    },
+    {
+      "no": 307,
+      "grup": "Monsta X",
+      "jawaban": "Hyungwon",
+      "image": "https://i.pinimg.com/originals/ab/43/26/ab4326535bac6db4d4c8a4ef18498622.jpg",
+      "clue": "Visual & dancer Monsta X, model tidur terkenal, tinggi 183cm"
+    },
+    {
+      "no": 308,
+      "grup": "Monsta X",
+      "jawaban": "Hyungwon",
+      "image": "https://i.pinimg.com/originals/36/b2/f2/36b2f285ee6eb12998dfc3b5abaedbfa.jpg",
+      "clue": "Visual & dancer Monsta X, model tidur terkenal, tinggi 183cm"
+    },
+    {
+      "no": 309,
+      "grup": "Monsta X",
+      "jawaban": "Joohoney",
+      "image": "https://i.pinimg.com/originals/6a/6b/8a/6a6b8af3a2d704be61f7763c940f5667.jpg",
+      "clue": "Rapper Monsta X, produser lagu, energi rap paling bertenaga"
+    },
+    {
+      "no": 310,
+      "grup": "Monsta X",
+      "jawaban": "Joohoney",
+      "image": "https://i.pinimg.com/originals/f5/76/ea/f576ea16ad82e88a52e0f54cf54f0cda.jpg",
+      "clue": "Rapper Monsta X, produser lagu, energi rap paling bertenaga"
+    },
+    {
+      "no": 311,
+      "grup": "Monsta X",
+      "jawaban": "Im",
+      "image": "https://i.pinimg.com/originals/7a/a8/79/7aa879a716e05c18f50991114c0cb11b.jpg",
+      "clue": "Rapper & produser Monsta X, nama asli Lim Changkyun, maknae kece"
+    },
+    {
+      "no": 312,
+      "grup": "Monsta X",
+      "jawaban": "Im",
+      "image": "https://i.pinimg.com/originals/52/90/df/5290dfbc482cec307d2682997235ef9e.jpg",
+      "clue": "Rapper & produser Monsta X, nama asli Lim Changkyun, maknae kece"
+    },
+    {
+      "no": 313,
+      "grup": "The Boyz",
+      "jawaban": "Sangyeon",
+      "image": "https://i.pinimg.com/originals/52/d0/5e/52d05eb4ce75b1a171183936fa727c30.jpg",
+      "clue": "Leader The Boyz, vokal & aktor, paling senior di grup"
+    },
+    {
+      "no": 314,
+      "grup": "The Boyz",
+      "jawaban": "Sangyeon",
+      "image": "https://i.pinimg.com/originals/cd/0f/f8/cd0ff83760698d89d1afbe4b720c091b.jpg",
+      "clue": "Leader The Boyz, vokal & aktor, paling senior di grup"
+    },
+    {
+      "no": 315,
+      "grup": "The Boyz",
+      "jawaban": "Jacob",
+      "image": "https://i.pinimg.com/originals/fb/c7/1e/fbc71ed4b6896d29afd7884176c25782.jpg",
+      "clue": "Vokal The Boyz, berasal dari Toronto Kanada, gentle & hangat"
+    },
+    {
+      "no": 316,
+      "grup": "The Boyz",
+      "jawaban": "Jacob",
+      "image": "https://i.pinimg.com/originals/c1/72/d6/c172d62bdd1dbf00f8df30ce44e982c6.jpg",
+      "clue": "Vokal The Boyz, berasal dari Toronto Kanada, gentle & hangat"
+    },
+    {
+      "no": 317,
+      "grup": "The Boyz",
+      "jawaban": "Younghoon",
+      "image": "https://i.pinimg.com/originals/c1/66/83/c16683034867aff6df9aeaf876aa925a.jpg",
+      "clue": "Visual & vokal The Boyz, aktor drama Korea aktif berbakat"
+    },
+    {
+      "no": 318,
+      "grup": "The Boyz",
+      "jawaban": "Younghoon",
+      "image": "https://i.pinimg.com/originals/40/57/e8/4057e8defa3d40504ae6a91af52621f0.jpg",
+      "clue": "Visual & vokal The Boyz, aktor drama Korea aktif berbakat"
+    },
+    {
+      "no": 319,
+      "grup": "The Boyz",
+      "jawaban": "Juyeon",
+      "image": "https://i.pinimg.com/originals/2e/ee/97/2eee97b40c984e0505e92aa7b047bfb1.jpg",
+      "clue": "Dancer & visual The Boyz, aura bad boy yang memukau di panggung"
+    },
+    {
+      "no": 320,
+      "grup": "The Boyz",
+      "jawaban": "Juyeon",
+      "image": "https://i.pinimg.com/originals/70/7c/91/707c91557fb3d24986505e7b44aefd71.jpg",
+      "clue": "Dancer & visual The Boyz, aura bad boy yang memukau di panggung"
+    },
+    {
+      "no": 321,
+      "grup": "The Boyz",
+      "jawaban": "Kevin",
+      "image": "https://i.pinimg.com/originals/22/e8/45/22e8453d0bbcb0bad3e7747d067aa9a8.jpg",
+      "clue": "Vokal The Boyz, berdarah Korea-Kanada, MC & YouTuber aktif"
+    },
+    {
+      "no": 322,
+      "grup": "The Boyz",
+      "jawaban": "Kevin",
+      "image": "https://i.pinimg.com/originals/c2/22/ea/c222ea3fdcd21fc6e9237f6d2c9bca50.jpg",
+      "clue": "Vokal The Boyz, berdarah Korea-Kanada, MC & YouTuber aktif"
+    },
+    {
+      "no": 323,
+      "grup": "The Boyz",
+      "jawaban": "Sunwoo",
+      "image": "https://i.pinimg.com/originals/ea/a5/52/eaa552de44e8f653e37b263720bd5d90.jpg",
+      "clue": "Rapper The Boyz, swag & charisma kuat, maknae line energik"
+    },
+    {
+      "no": 324,
+      "grup": "The Boyz",
+      "jawaban": "Sunwoo",
+      "image": "https://i.pinimg.com/originals/0d/77/06/0d770697f509cee75e6b9aeb4346ca48.jpg",
+      "clue": "Rapper The Boyz, swag & charisma kuat, maknae line energik"
+    },
+    {
+      "no": 325,
+      "grup": "The Boyz",
+      "jawaban": "Eric",
+      "image": "https://i.pinimg.com/originals/0b/80/a9/0b80a9d087534681be41a51159826e68.jpg",
+      "clue": "Dancer & rapper The Boyz, berasal dari New York Amerika, maknae"
+    },
+    {
+      "no": 326,
+      "grup": "The Boyz",
+      "jawaban": "Eric",
+      "image": "https://i.pinimg.com/originals/23/72/43/2372433f163c59995a2c7a5302d6589e.jpg",
+      "clue": "Dancer & rapper The Boyz, berasal dari New York Amerika, maknae"
+    },
+    {
+      "no": 327,
+      "grup": "STAYC",
+      "jawaban": "Sumin",
+      "image": "https://i.pinimg.com/originals/5a/4d/ea/5a4dea983a337530241889d7a53b3823.jpg",
+      "clue": "Leader STAYC, rapper & vokal, paling dewasa & berwibawa"
+    },
+    {
+      "no": 328,
+      "grup": "STAYC",
+      "jawaban": "Sumin",
+      "image": "https://i.pinimg.com/originals/8e/83/38/8e8338642147ec6236052f9fe83964a8.jpg",
+      "clue": "Leader STAYC, rapper & vokal, paling dewasa & berwibawa"
+    },
+    {
+      "no": 329,
+      "grup": "STAYC",
+      "jawaban": "Sieun",
+      "image": "https://i.pinimg.com/originals/50/8d/4e/508d4e88af8859a4ec98ec793bd33c5b.jpg",
+      "clue": "Vokal STAYC, suara tinggi khas, main vocal andalan grup"
+    },
+    {
+      "no": 330,
+      "grup": "STAYC",
+      "jawaban": "Sieun",
+      "image": "https://i.pinimg.com/originals/bb/39/49/bb3949d76d9dc96e250fbdd1c16cd7ef.jpg",
+      "clue": "Vokal STAYC, suara tinggi khas, main vocal andalan grup"
+    },
+    {
+      "no": 331,
+      "grup": "STAYC",
+      "jawaban": "Isa",
+      "image": "https://i.pinimg.com/originals/20/0b/98/200b98e7c774e02bc3489e781350b9f6.jpg",
+      "clue": "Rapper & dancer STAYC, cool girl image, berasal dari Jepang"
+    },
+    {
+      "no": 332,
+      "grup": "STAYC",
+      "jawaban": "Isa",
+      "image": "https://i.pinimg.com/originals/e7/d4/c2/e7d4c289835baddfec26575db2dbebf6.jpg",
+      "clue": "Rapper & dancer STAYC, cool girl image, berasal dari Jepang"
+    },
+    {
+      "no": 333,
+      "grup": "STAYC",
+      "jawaban": "Yoon",
+      "image": "https://i.pinimg.com/originals/5a/01/4d/5a014d4f1bb41ff32e9cabe882ab1fc9.jpg",
+      "clue": "Rapper STAYC, gaya unik & ekspresif, paling lucu di grup"
+    },
+    {
+      "no": 334,
+      "grup": "STAYC",
+      "jawaban": "Yoon",
+      "image": "https://i.pinimg.com/originals/7e/15/82/7e15822c62f38df2cb128ca5d09388f7.jpg",
+      "clue": "Rapper STAYC, gaya unik & ekspresif, paling lucu di grup"
+    },
+    {
+      "no": 335,
+      "grup": "STAYC",
+      "jawaban": "J",
+      "image": "https://i.pinimg.com/originals/43/f4/ff/43f4ff2595618e262bde5853d2f3cc20.jpg",
+      "clue": "Maknae STAYC, dancer & vokal, nama asli Jaehee, termuda di grup"
+    },
+    {
+      "no": 336,
+      "grup": "STAYC",
+      "jawaban": "J",
+      "image": "https://i.pinimg.com/originals/9e/c9/44/9ec9449ca381bd73e31b02e75cf74f45.jpg",
+      "clue": "Maknae STAYC, dancer & vokal, nama asli Jaehee, termuda di grup"
+    },
+    {
+      "no": 337,
+      "grup": "ASTRO",
+      "jawaban": "Eunwoo",
+      "image": "https://i.pinimg.com/originals/90/22/dc/9022dc349dbc6955944e62f0a1c2c342.jpg",
+      "clue": "Visual & vokal ASTRO, aktor terpopuler Korea, nama asli Cha Eunwoo"
+    },
+    {
+      "no": 338,
+      "grup": "ASTRO",
+      "jawaban": "Eunwoo",
+      "image": "https://i.pinimg.com/originals/18/52/a3/1852a3977c8dae2121bd969acd326e41.jpg",
+      "clue": "Visual & vokal ASTRO, aktor terpopuler Korea, nama asli Cha Eunwoo"
+    },
+    {
+      "no": 339,
+      "grup": "ASTRO",
+      "jawaban": "Moonbin",
+      "image": "https://i.pinimg.com/originals/28/a3/62/28a362b4f1fb49c79ad712d5707d47eb.jpg",
+      "clue": "Main dancer ASTRO, visual memukau, juga aktor drama Korea"
+    },
+    {
+      "no": 340,
+      "grup": "ASTRO",
+      "jawaban": "Moonbin",
+      "image": "https://i.pinimg.com/originals/6f/0b/30/6f0b30b7c6e0d676428eaaf5fd4fc3c0.jpg",
+      "clue": "Main dancer ASTRO, visual memukau, juga aktor drama Korea"
+    },
+    {
+      "no": 341,
+      "grup": "ASTRO",
+      "jawaban": "Rocky",
+      "image": "https://i.pinimg.com/originals/0f/4b/68/0f4b681f13549e4e4b78da75fa4a29cd.jpg",
+      "clue": "Main dancer & rapper ASTRO, koreografer berbakat, skill b-boy"
+    },
+    {
+      "no": 342,
+      "grup": "ASTRO",
+      "jawaban": "Rocky",
+      "image": "https://i.pinimg.com/originals/dc/76/fa/dc76fafe900007352a9e8d1ee6bad9a6.jpg",
+      "clue": "Main dancer & rapper ASTRO, koreografer berbakat, skill b-boy"
+    },
+    {
+      "no": 343,
+      "grup": "ASTRO",
+      "jawaban": "Jinjin",
+      "image": "https://i.pinimg.com/originals/e6/49/ae/e649aec1014703ac4743e40d8656e369.jpg",
+      "clue": "Leader & rapper ASTRO, nama asli Park Jinwoo, energik di panggung"
+    },
+    {
+      "no": 344,
+      "grup": "ASTRO",
+      "jawaban": "Jinjin",
+      "image": "https://i.pinimg.com/originals/df/eb/36/dfeb363b33af7e5992c96382f82b4f04.jpg",
+      "clue": "Leader & rapper ASTRO, nama asli Park Jinwoo, energik di panggung"
+    },
+    {
+      "no": 345,
+      "grup": "ASTRO",
+      "jawaban": "Sanha",
+      "image": "https://i.pinimg.com/originals/12/9e/14/129e1434a6c4232a0c8ec6c8423fe452.jpg",
+      "clue": "Maknae & vokal ASTRO, tinggi 183cm, jago gitar & ukulele"
+    },
+    {
+      "no": 346,
+      "grup": "ASTRO",
+      "jawaban": "Sanha",
+      "image": "https://i.pinimg.com/originals/5c/c7/28/5cc728720661e36a47b44eda39f201b3.jpg",
+      "clue": "Maknae & vokal ASTRO, tinggi 183cm, jago gitar & ukulele"
+    },
+    {
+      "no": 347,
+      "grup": "ASTRO",
+      "jawaban": "Mj",
+      "image": "https://i.pinimg.com/originals/a6/7f/a6/a67fa6520d65006f43b996c724f7ef8f.png",
+      "clue": "Vokal utama ASTRO, suara jernih melengking, nama asli Kim Myungjun"
+    },
+    {
+      "no": 348,
+      "grup": "ASTRO",
+      "jawaban": "Mj",
+      "image": "https://i.pinimg.com/originals/51/8d/e5/518de501bc088f7e847ac71f4b47b731.jpg",
+      "clue": "Vokal utama ASTRO, suara jernih melengking, nama asli Kim Myungjun"
+    },
+    {
+      "no": 349,
+      "grup": "2PM",
+      "jawaban": "Junho",
+      "image": "https://i.pinimg.com/originals/d5/46/54/d546543b1fc7d1f6acca308665f421e8.jpg",
+      "clue": "Vokal & aktor 2PM, karier drama Jepang & Korea sukses, penari andal"
+    },
+    {
+      "no": 350,
+      "grup": "2PM",
+      "jawaban": "Junho",
+      "image": "https://i.pinimg.com/originals/49/f5/64/49f564491867ff049e6be33ae973a27a.jpg",
+      "clue": "Vokal & aktor 2PM, karier drama Jepang & Korea sukses, penari andal"
+    },
+    {
+      "no": 351,
+      "grup": "2PM",
+      "jawaban": "Taecyeon",
+      "image": "https://i.pinimg.com/originals/c9/53/f4/c953f49aeade3911bbf8ed2a25c04c71.jpg",
+      "clue": "Rapper 2PM, aktor top Korea, mantan atlet bisbol, tinggi 185cm"
+    },
+    {
+      "no": 352,
+      "grup": "2PM",
+      "jawaban": "Taecyeon",
+      "image": "https://i.pinimg.com/originals/2e/f6/49/2ef649e1300c5b2e871d5dcbee32f1f2.jpg",
+      "clue": "Rapper 2PM, aktor top Korea, mantan atlet bisbol, tinggi 185cm"
+    },
+    {
+      "no": 353,
+      "grup": "2PM",
+      "jawaban": "Nichkhun",
+      "image": "https://i.pinimg.com/originals/3d/51/72/3d5172dc303e91124ba8a076138ca1d2.jpg",
+      "clue": "Vokal 2PM, berasal dari Thailand, wajah tampan ikonik 2PM"
+    },
+    {
+      "no": 354,
+      "grup": "2PM",
+      "jawaban": "Nichkhun",
+      "image": "https://i.pinimg.com/originals/69/ab/c6/69abc6074ea3f7b4aff9ebb2b97cb68c.jpg",
+      "clue": "Vokal 2PM, berasal dari Thailand, wajah tampan ikonik 2PM"
+    },
+    {
+      "no": 355,
+      "grup": "2PM",
+      "jawaban": "Wooyoung",
+      "image": "https://i.pinimg.com/originals/a1/00/a0/a100a09fab40c4e8635fc38398ed3f0a.jpg",
+      "clue": "Dancer & vokal 2PM, sahabat Junho, penampilan enerjik & seru"
+    },
+    {
+      "no": 356,
+      "grup": "2PM",
+      "jawaban": "Wooyoung",
+      "image": "https://i.pinimg.com/originals/a2/99/89/a29989b3a3cb473dada9d7302b50834b.jpg",
+      "clue": "Dancer & vokal 2PM, sahabat Junho, penampilan enerjik & seru"
+    },
+    {
+      "no": 357,
+      "grup": "2PM",
+      "jawaban": "Chansung",
+      "image": "https://i.pinimg.com/originals/da/5f/54/da5f54cb67a16ef82ffd194a436efaea.jpg",
+      "clue": "Maknae 2PM, rapper & aktor, berbadan tinggi atletis 185cm"
+    },
+    {
+      "no": 358,
+      "grup": "2PM",
+      "jawaban": "Chansung",
+      "image": "https://i.pinimg.com/originals/46/1f/aa/461faabfaf808e8a2d453ad3f9d5c3c9.jpg",
+      "clue": "Maknae 2PM, rapper & aktor, berbadan tinggi atletis 185cm"
+    },
+    {
+      "no": 359,
+      "grup": "2PM",
+      "jawaban": "Junk",
+      "image": "https://i.pinimg.com/originals/ad/5b/3b/ad5b3b8965b6aae864ba825c00e207a7.jpg",
+      "clue": "Vokal utama 2PM, nama asli Jun.K, jago piano & produksi musik"
+    },
+    {
+      "no": 360,
+      "grup": "2PM",
+      "jawaban": "Junk",
+      "image": "https://i.pinimg.com/originals/04/43/3c/04433cccb4f1a56e9e2b4ed6d1e21c6a.jpg",
+      "clue": "Vokal utama 2PM, nama asli Jun.K, jago piano & produksi musik"
+    },
+    {
+      "no": 361,
+      "grup": "BTOB",
+      "jawaban": "Eunkwang",
+      "image": "https://i.pinimg.com/originals/d4/32/05/d43205635c0dda11f7d43167b9aba22e.jpg",
+      "clue": "Leader BTOB, vokal powerhouse, MC lucu & energik tanpa batas"
+    },
+    {
+      "no": 362,
+      "grup": "BTOB",
+      "jawaban": "Eunkwang",
+      "image": "https://i.pinimg.com/originals/4b/4d/83/4b4d833e7c11aa0a84c1a018afaf565e.jpg",
+      "clue": "Leader BTOB, vokal powerhouse, MC lucu & energik tanpa batas"
+    },
+    {
+      "no": 363,
+      "grup": "BTOB",
+      "jawaban": "Minhyuk",
+      "image": "https://i.pinimg.com/originals/71/c3/ad/71c3ad830fdaa17aed682a3265dd805f.jpg",
+      "clue": "Rapper & drummer BTOB, aktif sebagai solois & MC berbakat"
+    },
+    {
+      "no": 364,
+      "grup": "BTOB",
+      "jawaban": "Minhyuk",
+      "image": "https://i.pinimg.com/originals/0b/53/53/0b5353c78cbd50af263dbaf5950858f0.jpg",
+      "clue": "Rapper & drummer BTOB, aktif sebagai solois & MC berbakat"
+    },
+    {
+      "no": 365,
+      "grup": "BTOB",
+      "jawaban": "Changsub",
+      "image": "https://i.pinimg.com/originals/d8/f3/91/d8f3918bc1683a6bf668d055933f0ce3.jpg",
+      "clue": "Vokal BTOB, suara paling unik & khas, selalu buat fans terharu"
+    },
+    {
+      "no": 366,
+      "grup": "BTOB",
+      "jawaban": "Changsub",
+      "image": "https://i.pinimg.com/originals/36/24/b9/3624b963fafb80939becf88fcb4e1bc6.jpg",
+      "clue": "Vokal BTOB, suara paling unik & khas, selalu buat fans terharu"
+    },
+    {
+      "no": 367,
+      "grup": "BTOB",
+      "jawaban": "Hyunsik",
+      "image": "https://i.pinimg.com/originals/58/46/e1/5846e1d2c8591b8002861ad5b8a8c888.jpg",
+      "clue": "Vokal & produser BTOB, jago piano, menulis banyak lagu hits BTOB"
+    },
+    {
+      "no": 368,
+      "grup": "BTOB",
+      "jawaban": "Hyunsik",
+      "image": "https://i.pinimg.com/originals/be/19/41/be1941b1b9dd688871d8a2c72da8e82f.jpg",
+      "clue": "Vokal & produser BTOB, jago piano, menulis banyak lagu hits BTOB"
+    },
+    {
+      "no": 369,
+      "grup": "BTOB",
+      "jawaban": "Peniel",
+      "image": "https://i.pinimg.com/originals/34/fb/bf/34fbbfe7e5238b1aa1354d9881767aac.jpg",
+      "clue": "Rapper BTOB, berasal dari Chicago Amerika, jago beatbox unik"
+    },
+    {
+      "no": 370,
+      "grup": "BTOB",
+      "jawaban": "Peniel",
+      "image": "https://i.pinimg.com/originals/2a/7c/2b/2a7c2bef2a060fff8aea1c60140209d2.jpg",
+      "clue": "Rapper BTOB, berasal dari Chicago Amerika, jago beatbox unik"
+    },
+    {
+      "no": 371,
+      "grup": "BTOB",
+      "jawaban": "Sungjae",
+      "image": "https://i.pinimg.com/originals/82/c7/1d/82c71d49f24fa2c667b8d734950848c6.jpg",
+      "clue": "Maknae & vokal BTOB, aktor papan atas Korea, visualnya ikonik"
+    },
+    {
+      "no": 372,
+      "grup": "BTOB",
+      "jawaban": "Sungjae",
+      "image": "https://i.pinimg.com/originals/23/1f/a6/231fa6f38fcd7d68bbda0354d2167fbe.jpg",
+      "clue": "Maknae & vokal BTOB, aktor papan atas Korea, visualnya ikonik"
+    },
+    {
+      "no": 373,
+      "grup": "WINNER",
+      "jawaban": "Jinwoo",
+      "image": "https://i.pinimg.com/originals/73/c5/95/73c595d78fe66e404b327d53ed293f1f.jpg",
+      "clue": "Vokal & visual WINNER, tertua di grup, aktor drama Korea aktif"
+    },
+    {
+      "no": 374,
+      "grup": "WINNER",
+      "jawaban": "Jinwoo",
+      "image": "https://i.pinimg.com/originals/72/75/af/7275afcb5788ba7613cc817a603fc7b6.jpg",
+      "clue": "Vokal & visual WINNER, tertua di grup, aktor drama Korea aktif"
+    },
+    {
+      "no": 375,
+      "grup": "WINNER",
+      "jawaban": "Seungyoon",
+      "image": "https://i.pinimg.com/originals/6b/13/ce/6b13cebd2415504d7b07f8d125a151a4.jpg",
+      "clue": "Leader & vokal utama WINNER, jago gitar & piano, penulis lagu"
+    },
+    {
+      "no": 376,
+      "grup": "WINNER",
+      "jawaban": "Seungyoon",
+      "image": "https://i.pinimg.com/originals/a3/89/4f/a3894f8bfce1f9278671e6b3878635f7.jpg",
+      "clue": "Leader & vokal utama WINNER, jago gitar & piano, penulis lagu"
+    },
+    {
+      "no": 377,
+      "grup": "WINNER",
+      "jawaban": "Hoony",
+      "image": "https://i.pinimg.com/originals/bc/27/75/bc2775b0f1897da71d6ea6853927f4ae.jpg",
+      "clue": "Rapper & dancer WINNER, nama asli Song Mino, seniman & pelukis"
+    },
+    {
+      "no": 378,
+      "grup": "WINNER",
+      "jawaban": "Hoony",
+      "image": "https://i.pinimg.com/originals/48/1f/f2/481ff21d7e7b355744c58e151e475ac0.jpg",
+      "clue": "Rapper & dancer WINNER, nama asli Song Mino, seniman & pelukis"
+    },
+    {
+      "no": 379,
+      "grup": "WINNER",
+      "jawaban": "Seunghoon",
+      "image": "https://i.pinimg.com/originals/91/ed/61/91ed61301179d87384d5e8a6df1825dc.jpg",
+      "clue": "Main dancer & rapper WINNER, koreografer berbakat & kreatif"
+    },
+    {
+      "no": 380,
+      "grup": "WINNER",
+      "jawaban": "Seunghoon",
+      "image": "https://i.pinimg.com/originals/a8/0f/42/a80f4260802dc548bf4e09b902c8dd48.jpg",
+      "clue": "Main dancer & rapper WINNER, koreografer berbakat & kreatif"
+    },
+    {
+      "no": 381,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Hanbin",
+      "image": "https://i.pinimg.com/originals/f1/1f/da/f11fda2e7d9727602f682955777896e9.jpg",
+      "clue": "Leader ZB1, nama asli Sung Hanbin, karisma panggung luar biasa"
+    },
+    {
+      "no": 382,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Hanbin",
+      "image": "https://i.pinimg.com/originals/f3/c5/4e/f3c54ea278802d57d42724ed1e05ab26.jpg",
+      "clue": "Leader ZB1, nama asli Sung Hanbin, karisma panggung luar biasa"
+    },
+    {
+      "no": 383,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Jiwoong",
+      "image": "https://i.pinimg.com/originals/08/0d/e2/080de2227e9b827fb1b7ad548a7642b1.jpg",
+      "clue": "Vokal ZB1, nama asli Kim Jiwoong, sebelumnya solois indie aktor"
+    },
+    {
+      "no": 384,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Jiwoong",
+      "image": "https://i.pinimg.com/originals/5b/cf/fd/5bcffdfdc6d55cbfe28737da88dba179.jpg",
+      "clue": "Vokal ZB1, nama asli Kim Jiwoong, sebelumnya solois indie aktor"
+    },
+    {
+      "no": 385,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Zhanghao",
+      "image": "https://i.pinimg.com/originals/09/0a/10/090a104b45f298409a0a7f0372d3ad65.jpg",
+      "clue": "Vokal & visual ZB1, berasal dari China, suara mellow menawan"
+    },
+    {
+      "no": 386,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Zhanghao",
+      "image": "https://i.pinimg.com/originals/2d/a9/48/2da9483375523cad374cdeab471f9087.jpg",
+      "clue": "Vokal & visual ZB1, berasal dari China, suara mellow menawan"
+    },
+    {
+      "no": 387,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Ricky",
+      "image": "https://i.pinimg.com/originals/0e/ed/33/0eed330bf56c6d32ea06d2085c63c2f9.jpg",
+      "clue": "Performer ZB1, nama asli Kim Gyuvin, energik & selalu ceria"
+    },
+    {
+      "no": 388,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Ricky",
+      "image": "https://i.pinimg.com/originals/fb/b6/88/fbb68857f630ab92d8968fc87d2b4974.jpg",
+      "clue": "Performer ZB1, nama asli Kim Gyuvin, energik & selalu ceria"
+    },
+    {
+      "no": 389,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Matthew",
+      "image": "https://i.pinimg.com/originals/43/77/5d/43775ddb816361fad886f33a4018bda1.jpg",
+      "clue": "Vokal ZB1, berdarah Korea-Kanada, nama asli Seok Matthew"
+    },
+    {
+      "no": 390,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Matthew",
+      "image": "https://i.pinimg.com/originals/13/c3/cd/13c3cd33a504cc55290b25ca8a3e153b.jpg",
+      "clue": "Vokal ZB1, berdarah Korea-Kanada, nama asli Seok Matthew"
+    },
+    {
+      "no": 391,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Taerae",
+      "image": "https://i.pinimg.com/originals/c3/09/47/c309475fe7d14cb90b75c769be9fb4ea.jpg",
+      "clue": "Vokal ZB1, nama asli Kim Taerae, suara tinggi memukau"
+    },
+    {
+      "no": 392,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Taerae",
+      "image": "https://i.pinimg.com/originals/4f/fa/bd/4ffabd077733c4d2f0c8165f3bd2a3eb.jpg",
+      "clue": "Vokal ZB1, nama asli Kim Taerae, suara tinggi memukau"
+    },
+    {
+      "no": 393,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/e7/f9/d6/e7f9d6006d661332a24f2db83898ccd2.jpg",
+      "clue": "Dancer & vokal ZB1, nama asli Han Yujin, maknae termuda ZB1"
+    },
+    {
+      "no": 394,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Yujin",
+      "image": "https://i.pinimg.com/originals/52/b5/48/52b54861981ae390a38ad35f6a35febe.jpg",
+      "clue": "Dancer & vokal ZB1, nama asli Han Yujin, maknae termuda ZB1"
+    },
+    {
+      "no": 395,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Hao",
+      "image": "https://i.pinimg.com/originals/08/3a/a2/083aa226fcd9eb3a7543e7665bf493e6.jpg",
+      "clue": "Performer ZB1, nama asli Seok Hao, berasal dari China berkarisma"
+    },
+    {
+      "no": 396,
+      "grup": "ZeroBaseOne",
+      "jawaban": "Hao",
+      "image": "https://i.pinimg.com/originals/2d/a9/48/2da9483375523cad374cdeab471f9087.jpg",
+      "clue": "Performer ZB1, nama asli Seok Hao, berasal dari China berkarisma"
+    },
+    {
+      "no": 397,
+      "grup": "fromis_9",
+      "jawaban": "Jiheon",
+      "image": "https://i.pinimg.com/originals/4d/2a/75/4d2a75f3538e393653ed10bb5f9e2b5d.jpg",
+      "clue": "Leader fromis_9, vokal & dancer, nama asli Song Jiheon"
+    },
+    {
+      "no": 398,
+      "grup": "fromis_9",
+      "jawaban": "Jiheon",
+      "image": "https://i.pinimg.com/originals/ee/7b/ff/ee7bff11388879c4f60a3fb9c62f514a.jpg",
+      "clue": "Leader fromis_9, vokal & dancer, nama asli Song Jiheon"
+    },
+    {
+      "no": 399,
+      "grup": "fromis_9",
+      "jawaban": "Saerom",
+      "image": "https://i.pinimg.com/originals/c0/97/63/c097632256fbe3f4ea6a2a63a613fd34.jpg",
+      "clue": "Vokal fromis_9, nama asli Lee Saerom, aura elegan & mature"
+    },
+    {
+      "no": 400,
+      "grup": "fromis_9",
+      "jawaban": "Saerom",
+      "image": "https://i.pinimg.com/originals/01/5f/ce/015fceed767b7bb7970c2c80de62d8e1.jpg",
+      "clue": "Vokal fromis_9, nama asli Lee Saerom, aura elegan & mature"
+    }
+  ]
